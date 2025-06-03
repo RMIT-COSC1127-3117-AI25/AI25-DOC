@@ -5,23 +5,27 @@ As any FAQ page, this page is always "under construction”. As we realis that s
 For specific FAQ on programming projects see [here](FAQ-PROJECTS.md).
 
 - [General FAQ for RMIT AI COSC1125/1127](#general-faq-for-rmit-ai-cosc11251127)
-- [GENERAL](#general)
-  - [Why this FAQ?](#why-this-faq)
-  - [Communication policy: I have a question, can I email you?](#communication-policy-i-have-a-question-can-i-email-you)
-  - [I work outside and have other commitments, should I take this course?](#i-work-outside-and-have-other-commitments-should-i-take-this-course)
-  - [I want to discuss something face-to-face, can I?](#i-want-to-discuss-something-face-to-face-can-i)
-  - [Attendance: do I need to attend lectorials and tutorials?](#attendance-do-i-need-to-attend-lectorials-and-tutorials)
+- [WHY THIS FAQ?](#why-this-faq)
+- [THE AI COURSE](#the-ai-course)
+  - [What is this course about? What is it NOT about?](#what-is-this-course-about-what-is-it-not-about)
   - [What are the pre-reqs for AI?](#what-are-the-pre-reqs-for-ai)
   - [I have not taken A\&A. Can I take the AI course without the pre-req](#i-have-not-taken-aa-can-i-take-the-ai-course-without-the-pre-req)
   - [Is there any mentoring program for this course?](#is-there-any-mentoring-program-for-this-course)
+- [COMMUNICATION AND ATTENDANCE](#communication-and-attendance)
+  - [Communication policy: I have a question, can I email you?](#communication-policy-i-have-a-question-can-i-email-you)
+  - [I want to discuss something face-to-face, can I?](#i-want-to-discuss-something-face-to-face-can-i)
+  - [I work outside and have other commitments, should I take this course?](#i-work-outside-and-have-other-commitments-should-i-take-this-course)
+  - [Attendance: do I need to attend lectorials and tutorials?](#attendance-do-i-need-to-attend-lectorials-and-tutorials)
   - [Can I audit the course?](#can-i-audit-the-course)
-  - [Course Survey Experience: what? why?](#course-survey-experience-what-why)
   - [I am enrolled in COSC1125 (PGRD) but my Canvas says COSC1127 (UGRD). Is everything OK?](#i-am-enrolled-in-cosc1125-pgrd-but-my-canvas-says-cosc1127-ugrd-is-everything-ok)
   - [I enrolled late in the course, can you explain me about X, Y, and Z about the course? What should I do now?](#i-enrolled-late-in-the-course-can-you-explain-me-about-x-y-and-z-about-the-course-what-should-i-do-now)
-  - [I have a question about the course, but it is not here!](#i-have-a-question-about-the-course-but-it-is-not-here)
   - [What version of the book is used in this course?](#what-version-of-the-book-is-used-in-this-course)
-  - [Why do you use many platforms (EdStem, Canvas, GitHub, email, GH Classroom, Google, etc.) instead of just Canvas as other courses?](#why-do-you-use-many-platforms-edstem-canvas-github-email-gh-classroom-google-etc-instead-of-just-canvas-as-other-courses)
+  - [GENERAL](#general)
+  - [Course Survey Experience: what? why?](#course-survey-experience-what-why)
+  - [I have a question about the course, but it is not here!](#i-have-a-question-about-the-course-but-it-is-not-here)
 - [DISCUSSION FORUM \& FORUM ETIQUETTE](#discussion-forum--forum-etiquette)
+  - [What is the Forum FAQ \& Forum Etiquette?](#what-is-the-forum-faq--forum-etiquette)
+  - [Why do you use many platforms (EdStem, Canvas, GitHub, email, GH Classroom, Google, etc.) instead of just Canvas as other courses?](#why-do-you-use-many-platforms-edstem-canvas-github-email-gh-classroom-google-etc-instead-of-just-canvas-as-other-courses)
 - [LECTORIALS \& TUTORIALS](#lectorials--tutorials)
   - [I have a timetable clash. There are no space available. Classes full. What should I do?](#i-have-a-timetable-clash-there-are-no-space-available-classes-full-what-should-i-do)
   - [Do we have lectures? What is a lectorial?](#do-we-have-lectures-what-is-a-lectorial)
@@ -53,46 +57,23 @@ For specific FAQ on programming projects see [here](FAQ-PROJECTS.md).
   - [I will not be around for the final in-person assessment, can I take it online or before?](#i-will-not-be-around-for-the-final-in-person-assessment-can-i-take-it-online-or-before)
   
 
-
-# GENERAL
-
-## Why this FAQ?
+# WHY THIS FAQ?
 
 This question is already answered in the [FAQ](FAQ-COURSE.md). 😉
 
 If, somehow, you managed to get out of the [self-reference](https://en.wikipedia.org/wiki/Self-reference), then this is the list of usual questions that are asked about the course. A FAQ like this can help you find the answer right away. There are also many questions that can shed some light on the rationale of certain policies or approaches to the course. Also, by having an FAQ I am able to provide consistent and uniform answers to everyone. Of course, if you cannot find your question here, then you are invited to post it in the discussion forum. As questions become more common or usual, I add them to this list. So, maybe your new question can make it to the list! :-)
 
-## Communication policy: I have a question, can I email you?
+# THE AI COURSE
 
-**Communication/email policy:** Except for personal issues, all electronic communication must be directed to the Discussion Forum. I only use e-mail for limited communications regarding **personal circumstances** (in many cases, email is just used to arrange a face-to-face meeting). In particular, I will not respond by e-mail to any requests to clarify lecture, tutorial, or assignment questions. Please use lectures, tutorials, labs, and especially the course forum for all such questions so that a _fair course is run_ and all other fellow students can benefit as well: **_sharing is caring_**.
+## What is this course about? What is it NOT about?
 
-Do not be afraid to post any question (of course, as long as it is a proper question: just asking for “help” or providing solutions/insights on assignments is not good, as it shows none effort or may amount to plagiarism), no question is stupid! To benefit from others, then, please ensure that you _regularly check_ the course website and attend lectures and tutorials.
+This is an introduction course to Artificial Intelligence. Machine Learning is one of the many sub-areas of AI and there is only a small component on ML, concretely we only see Reinforcement Learning. 
 
-## I work outside and have other commitments, should I take this course?
+The rest covers other areas of AI, which is much broader than ML: search, logic for knowledge representation, probabilistic reasoning, sequential decision making. If you are interested in ML itself, there are other courses that cover that (Comp ML, Deep Learning).
 
-It is very difficult for me to answer this question, every student's circumstances and skills are different.
+It is also a **breath-oriented course**, rather than depth-oriented. This means we see part of the landscape of AI, but we do not dive much into any of the topics. Different follow-up courses, like Computational Machine Learning, Intelligent Decision Making, Programming Robotcs, Deep Learning or Evolutionary Computation are more about depth than breath. The breath-oriented style means we cover a lot and hence we jump from one topic of another, which means it is super important to stay in sync and don't fall behind. 😉
 
-What I can say is this course is _not_ one you can take “on the side” and does indeed require significant commitment. If you will have limited time to devote to course sessions (lectorials and tutorials) or don’t have much flexibility or bandwidth to work with others, think carefully whether you want to take the course, to avoid pitfalls, unnecessary stress, and negative impact to others.  There is significant reading, coding, and math processes. In most cases, all that requires _time_ and _motivation_.
-
-## I want to discuss something face-to-face, can I?
-
-I am happy to talk to you face-to-face and without a keyboard in the middle! That is particularly important when the matter is personal and “difficult”. Please send me an email and we will arrange an appointment to discuss something particular and we’ll try to work it out.
-
-However, if what you are after is technical support with the course, then you should use the plenty of support already available in tutorials and drop-in lab sessions, that is exactly where we have tutors ready to help in a one-to-one fashion. Go and ask your question there, **help us to help you!** Of course, questions can also be asked during (and after!) lectorials or shared in the course forum! So plenty of opportunities to get help. Finally, when you take a course, you want to ENJOY it. Not having enough bandwidth to do it, will frustrate you and others, and make the “AI experience” a not so great one...
-
-## Attendance: do I need to attend lectorials and tutorials?
-
-The short answer is: _No_. Is it probably a very good idea to attend them? _Yes_
-
-While a minimum attendance standard is not compulsory, **non-attendance may seriously jeopardise the chances of success in this course**. First, non-attendance at in-person assessments (e.g., Exercise Challenges or marked class quizzes), will result in failure of that assessment (no replacements). Second, the teacher will generally identify very subtle technical points in the material, discuss them, and give insights that will usually be quite difficult for a student to grasp by themselves "alone" (most probably it will be totally missed). Finally, in the lectorial, the teacher will put the material in context (why? what? when?), which will help ground the technical content and help in understanding and motivation. So, we strongly suggest to attend ALL lectures and ALL tutorials to maximise the chances of success in the course.
-
-There are also other good reasons to attend in-person teaching sessions, besides just "passing" the course. Studying at uni is a _privilege_ that very few of us have, and a unique aspect of it is the possibility to be taught interactively, on the spot, by uni academics, who are also scientists in the field! Also very important is the ability of interacting with other fellow students who are in "the same learning boat": they could be your new friends and/or colleagues! All this makes uni unique and different from watching videos or learning by yourself, so not attending sessions kind of gives up what is probably the main feature of uni study. Also, for many students, this may be the only time in their lives (to be studying at Uni), so it is wise not to miss out, I think :-)
-
-In the last couple of years, during COVID times, we have experienced first-hand how limited the online experience is and how much better, fruitful, and enjoyable is in-person learning. So, I hope this will motivate us all to make that extra effort to "be there". It not only enhance your own experience, but also that of others. So, "being there" is contributing to the learning of everyone.
-
-**IMPORTANT:** Note that, from this semester, RMIT is committed to _in-person teaching on campus_. So, the course will NOT run online or in hybrid mode anymore, as it did in previous years due to COVID. This means that you should _not_ expect that what happens face-to-face (in-person) will have an "online replacement" (be online streaming, recording, replacement sessions, etc.) This does not mean there will be no online presence, sure there will be (e.g., forum, GitHub), but as additional and complementary resources, not as replacements or interchange.
-
-So, hope to see you in the room, interacting with teachers and fellow students!
+Finally, the course if foundational and it includes significant theoretical and conceptual knowledge and work. While there is significant programming, it is not a purely programming course. There will be a lot of reading, a lot of formulas, and a lot of analysis. 👍
 
 ## What are the pre-reqs for AI?
 
@@ -122,6 +103,41 @@ It is usually difficult to get mentors for this last year course. In 2023, I was
 
 So, by default, assume there is no mentorship program for the course. But I will let you know otherwise... 😉
 
+# COMMUNICATION AND ATTENDANCE
+
+## Communication policy: I have a question, can I email you?
+
+**Communication/email policy:** Except for personal issues, all electronic communication must be directed to the Discussion Forum. I only use e-mail for limited communications regarding **personal circumstances** (in many cases, email is just used to arrange a face-to-face meeting). In particular, I will not respond by e-mail to any requests to clarify lecture, tutorial, or assignment questions. Please use lectures, tutorials, labs, and especially the course forum for all such questions so that a _fair course is run_ and all other fellow students can benefit as well: **_sharing is caring_**.
+
+Do not be afraid to post any question (of course, as long as it is a proper question: just asking for “help” or providing solutions/insights on assignments is not good, as it shows none effort or may amount to plagiarism), no question is stupid! To benefit from others, then, please ensure that you _regularly check_ the course website and attend lectures and tutorials.
+
+## I want to discuss something face-to-face, can I?
+
+I am happy to talk to you face-to-face and without a keyboard in the middle! That is particularly important when the matter is personal and “difficult”. Please send me an email and we will arrange an appointment to discuss something particular and we’ll try to work it out.
+
+However, if what you are after is technical support with the course, then you should use the plenty of support already available in tutorials and drop-in lab sessions, that is exactly where we have tutors ready to help in a one-to-one fashion. Go and ask your question there, **help us to help you!** Of course, questions can also be asked during (and after!) lectorials or shared in the course forum! So plenty of opportunities to get help. Finally, when you take a course, you want to ENJOY it. Not having enough bandwidth to do it, will frustrate you and others, and make the “AI experience” a not so great one...
+
+## I work outside and have other commitments, should I take this course?
+
+It is very difficult for me to answer this question, every student's circumstances and skills are different.
+
+What I can say is this course is _not_ one you can take “on the side” and does indeed require significant commitment. If you will have limited time to devote to course sessions (lectorials and tutorials) or don’t have much flexibility or bandwidth to work with others, think carefully whether you want to take the course, to avoid pitfalls, unnecessary stress, and negative impact to others.  There is significant reading, coding, and math processes. In most cases, all that requires _time_ and _motivation_.
+
+## Attendance: do I need to attend lectorials and tutorials?
+
+The short answer is: _No_. Is it probably a very good idea to attend them? _Yes_
+
+While a minimum attendance standard is not compulsory, **non-attendance may seriously jeopardise the chances of success in this course**. First, non-attendance at in-person assessments (e.g., Exercise Challenges or marked class quizzes), will result in failure of that assessment (no replacements). Second, the teacher will generally identify very subtle technical points in the material, discuss them, and give insights that will usually be quite difficult for a student to grasp by themselves "alone" (most probably it will be totally missed). Finally, in the lectorial, the teacher will put the material in context (why? what? when?), which will help ground the technical content and help in understanding and motivation. So, we strongly suggest to attend ALL lectures and ALL tutorials to maximise the chances of success in the course.
+
+There are also other good reasons to attend in-person teaching sessions, besides just "passing" the course. Studying at uni is a _privilege_ that very few of us have, and a unique aspect of it is the possibility to be taught interactively, on the spot, by uni academics, who are also scientists in the field! Also very important is the ability of interacting with other fellow students who are in "the same learning boat": they could be your new friends and/or colleagues! All this makes uni unique and different from watching videos or learning by yourself, so not attending sessions kind of gives up what is probably the main feature of uni study. Also, for many students, this may be the only time in their lives (to be studying at Uni), so it is wise not to miss out, I think :-)
+
+In the last couple of years, during COVID times, we have experienced first-hand how limited the online experience is and how much better, fruitful, and enjoyable is in-person learning. So, I hope this will motivate us all to make that extra effort to "be there". It not only enhance your own experience, but also that of others. So, "being there" is contributing to the learning of everyone.
+
+> [!IMPORTANT]
+> Note that, from 2023, RMIT is committed to _in-person teaching on campus_. So, the course will NOT run online or in hybrid mode anymore, as it did in previous years due to COVID. This means that you should _not_ expect that what happens face-to-face (in-person) will have an "online replacement" (be online streaming, recording, replacement sessions, etc.) This does not mean there will be no online presence, sure there will be (e.g., forum, GitHub), but as additional and complementary resources, not as replacements or interchange.
+
+So, hope to see you in the room, interacting with teachers and fellow students!
+
 ## Can I audit the course?
 
 **Fine with me!** ... as long it is feasible in the course (e.g., there is a seat in the room!) and you understand that:
@@ -130,6 +146,39 @@ So, by default, assume there is no mentorship program for the course. But I will
 2. You may not be enrolled into the formal systems of RMIT for the course.
 
 In general, auditing means attending the lectorials, which arguably is what you wouldn't be able to get elsewhere, the sublteties, "story", and interactivity with others.
+
+## I am enrolled in COSC1125 (PGRD) but my Canvas says COSC1127 (UGRD). Is everything OK?
+
+Yes, no need to worry. This is just a Canvas "hack" for cross-listed courses. We maintain only one site (COSC1127's one), but everybody in the course can access it. No problem.
+
+## I enrolled late in the course, can you explain me about X, Y, and Z about the course? What should I do now?
+
+First of all, I assume you have discussed your late enrollment with your Program Manager. This is important. We assume students have been diligent beforehand and are fully ready and enrolled at least in Week 0, if not before.
+
+Enrolling late means that you have lost content and information about the course, and possibly assessments. This is fine as long as you **got the OK of your Program Manager** and you take **full responsibility** of your late entering to the course, _without shifting the burden to the teaching staff_.
+
+Think about it: joining a course in week 2 or 3 is like getting 15' late to a meeting with lots of people: you do it with care, trying not to bother others, and assuming _full responsibility_ for having arrived "late". Would you stop the meeting and ask: _"can you please tell me what you have been discussing so far?"_ Surely not... ;-)
+
+So this means that:
+
+1. The teaching staff will not go over the course logistics and information on a per-student basis when the student has joined the course late (and lost the first week of information and course overview).
+   - This means you would have to gather the information provided in the first weeks by yourself, by reading the online course pages/information, parsing all relevant forum posts, watching the videos and recordings. You would probably benefit from talking to other fellow students who are in sync with the course.
+   - Please, do not ask the teaching staff to go over the course details _again_, but if you have to, please do it _after_ you have processed everything and do it _in person_ in lectorials, tutorials, consultation time. This would show that you really care and put a legitimate effort to catch-up (and hence the teaching staff will be more sympathetic). :-)
+2. You will have to catch-up with the technical content of the course.  This is an intense course and there is significant reading allocated to each week, starting from week 1 itself. This means you would have to put significant effort to sync with the course.
+   - Entering in week 2+ should be doable with effort; after that would be very challenging and risk.
+3. You are not entitled to any extension or re-do of assessments run or distributed already when you enrolled.
+
+In summary, the course is very intense, even for those starting on time, and every week matters. I am OK if you join late after discussing with your PM, as long as you **take full responsibility** of such late start. Of course I am also OK with students contacting me before formally enrolled and while they are waiting for administrative process to conclude; this will allow students to stay in sync with the course until all paper-work is sorted out.
+
+Hope this is clear and all the best in the course!
+
+## What version of the book is used in this course?
+
+As of 2025, we use the [Global 4th edition][AIMA-BOOK] (not to be confused with the US 4th edition), which has a green cover.
+
+
+
+## GENERAL
 
 ## Course Survey Experience: what? why?
 
@@ -182,38 +231,15 @@ Finally, if you are interested in education in general, and university and unive
 
 I think that as a University student and future graduate, you should know about all this, be interested, and form your own informed opinion. _Your journey at uni should be much more than collecting credits and learning predicate logic!_ **_Enjoy it!_**
 
-## I am enrolled in COSC1125 (PGRD) but my Canvas says COSC1127 (UGRD). Is everything OK?
-
-Yes, no need to worry. This is just a Canvas "hack" for cross-listed courses. We maintain only one site (COSC1127's one), but everybody in the course can access it. No problem.
-
-## I enrolled late in the course, can you explain me about X, Y, and Z about the course? What should I do now?
-
-First of all, I assume you have discussed your late enrollment with your Program Manager. This is important. We assume students have been diligent beforehand and are fully ready and enrolled at least in Week 0, if not before.
-
-Enrolling late means that you have lost content and information about the course, and possibly assessments. This is fine as long as you **got the OK of your Program Manager** and you take **full responsibility** of your late entering to the course, _without shifting the burden to the teaching staff_.
-
-Think about it: joining a course in week 2 or 3 is like getting 15' late to a meeting with lots of people: you do it with care, trying not to bother others, and assuming _full responsibility_ for having arrived "late". Would you stop the meeting and ask: _"can you please tell me what you have been discussing so far?"_ Surely not... ;-)
-
-So this means that:
-
-1. The teaching staff will not go over the course logistics and information on a per-student basis when the student has joined the course late (and lost the first week of information and course overview).
-   - This means you would have to gather the information provided in the first weeks by yourself, by reading the online course pages/information, parsing all relevant forum posts, watching the videos and recordings. You would probably benefit from talking to other fellow students who are in sync with the course.
-   - Please, do not ask the teaching staff to go over the course details _again_, but if you have to, please do it _after_ you have processed everything and do it _in person_ in lectorials, tutorials, consultation time. This would show that you really care and put a legitimate effort to catch-up (and hence the teaching staff will be more sympathetic). :-)
-2. You will have to catch-up with the technical content of the course.  This is an intense course and there is significant reading allocated to each week, starting from week 1 itself. This means you would have to put significant effort to sync with the course.
-   - Entering in week 2+ should be doable with effort; after that would be very challenging and risk.
-3. You are not entitled to any extension or re-do of assessments run or distributed already when you enrolled.
-
-In summary, the course is very intense, even for those starting on time, and every week matters. I am OK if you join late after discussing with your PM, as long as you **take full responsibility** of such late start. Of course I am also OK with students contacting me before formally enrolled and while they are waiting for administrative process to conclude; this will allow students to stay in sync with the course until all paper-work is sorted out.
-
-Hope this is clear and all the best in the course!
-
-## What version of the book is used in this course?
-
-As of 2025, we use the [Global 4th edition][AIMA-BOOK] (not to be confused with the US 4th edition), which has a green cover.
-
 ## I have a question about the course, but it is not here!
 
 If you have any questions about the course that you think other fellow students may be also interested to learn, please post it in the forum!
+
+# DISCUSSION FORUM & FORUM ETIQUETTE
+
+## What is the Forum FAQ & Forum Etiquette?
+
+It is a set of questions and guidelines how to use and behave in the forum professionally. Please see dedicated [Forum FAQ & Etiquette][FORUM-FAQ].
 
 ## Why do you use many platforms (EdStem, Canvas, GitHub, email, GH Classroom, Google, etc.) instead of just Canvas as other courses?
 
@@ -242,9 +268,6 @@ Finally, I note that this is **MY approach/view/perspective to Computer Science 
 
 I hope this shed some light on the issue, and of course if a student has a better way/tool to do something within the course, **I am always open to constructive suggestions** and I will, without hesitation, adopt them if they are provably better and accessible.
 
-# DISCUSSION FORUM & FORUM ETIQUETTE
-
-Please see dedicated [Forum FAQ & Etiquette][FORUM-FAQ].
 
 # LECTORIALS & TUTORIALS
 
