@@ -8,7 +8,7 @@ Students are encouraged to discuss the assignment topic at a verbal and conceptu
 
 Remember that if a solution is "out there", then the teaching staff also has access to them. 👁️
 
-Finally, project assessments are there to help you learn and perform better at test times, so do not trick yourself and throw away the opportunity to learn, as later you will not be able to **demonstrate the knowledge and skills in the actual tests!** 😉
+Finally, project assessments are there to help you 🫵 learn and perform better at test times, so do not trick yourself and throw away the opportunity to learn, as later you will not be able to **demonstrate the knowledge and skills in the actual tests!** 😉
 
 So, **DO NOT RISK IT** and **DO NOT LET US DOWN!** 👎
 
@@ -30,7 +30,7 @@ Some guidelines to take into account:
 
 If you are still unsure on what is acceptable when coding, see my answer to the following question int eh course FAQ: [_In a code assignment/project, how do I make sure I do not go against academic integrity?_](https://github.com/RMIT-COSC1127-3117-AI25/AI25-DOC/blob/main/CODE-INTEGRITY.md)
 
-The aim of the course and this project is **your learning** 🥇. Everything we are teaching here and you are learning is NOT new and has been in textbooks for decades. Again, the objective is not for you to discover anything new, but to **help you learn** and acquire skills that will be useful for you as a Computer Scientist. So, don't trick yourself and see how far you can reach by developing _your_ solutions to all assessments. It is NOT necessary to solve everything or to solve it to perfection, but enough to confidence us that you got the crux of it. 😄
+The aim of the course and this project is **your learning** 🫵🥇. Everything we are teaching here and you are learning is NOT new and has been in textbooks for decades. Again, the objective is not for you to discover anything new, but to **help you learn** and acquire skills that will be useful for you as a Computer Scientist. So, don't trick yourself and see how far you can reach by developing _your_ solutions to all assessments. It is NOT necessary to solve everything or to solve it to perfection, but enough to confidence us that you got the crux of it. 😄
 
 ## Forum postings on assignment
 
