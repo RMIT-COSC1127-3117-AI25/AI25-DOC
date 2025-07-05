@@ -48,13 +48,13 @@ For specific FAQ on programming projects see [here](FAQ-PROJECTS.md).
   - [Can I get an extension for the assessment?](#can-i-get-an-extension-for-the-assessment)
   - [I am very busy with other commitments (work, other subjects, travel, etc.) and may not be able to make the deadline, can I get an extension?](#i-am-very-busy-with-other-commitments-work-other-subjects-travel-etc-and-may-not-be-able-to-make-the-deadline-can-i-get-an-extension)
   - [I am not available for the Exercise Challenge (EC) or Take Home Exercises (THE), can I take them some other time?](#i-am-not-available-for-the-exercise-challenge-ec-or-take-home-exercises-the-can-i-take-them-some-other-time)
-  - [I have a SPC for the THE/EC, how does it work?](#i-have-a-spc-for-the-theec-how-does-it-work)
+  - [I have a SPC for an assessment, how does it work?](#i-have-a-spc-for-an-assessment-how-does-it-work)
   - [The room for the time-based and timetabled assessment is not comfortable; can we get a larger room?](#the-room-for-the-time-based-and-timetabled-assessment-is-not-comfortable-can-we-get-a-larger-room)
   - [Why is THE/EC are not fully done on paper or done online at home?](#why-is-theec-are-not-fully-done-on-paper-or-done-online-at-home)
   - [In a code assignment/project, how do I make sure I do not go against academic integrity?](#in-a-code-assignmentproject-how-do-i-make-sure-i-do-not-go-against-academic-integrity)
-  - [Why did I get 57 in the assignment/project if it is 5% of the course?](#why-did-i-get-57-in-the-assignmentproject-if-it-is-5-of-the-course)
+  - [Why did I get 57 in the assignment/project if it is just 5% of the course?](#why-did-i-get-57-in-the-assignmentproject-if-it-is-just-5-of-the-course)
   - [How do I prepare for the final in-person assessment (THE/EC)?](#how-do-i-prepare-for-the-final-in-person-assessment-theec)
-  - [I will not be around for the final in-person assessment, can I take it online or before?](#i-will-not-be-around-for-the-final-in-person-assessment-can-i-take-it-online-or-before)
+  - [I will not be around for an in-person assessment, can I take it online or before?](#i-will-not-be-around-for-an-in-person-assessment-can-i-take-it-online-or-before)
   
 # WHY THIS FAQ?
 
@@ -468,9 +468,9 @@ Dates for assessments will been provided way in advance from the start of course
 
 We do not run one-to-one specialized tests for students; that would be totally unfeasible with a course of 200+ students (as any assessment, the design of a class test is not an easy task, it takes a **lot** of work).
 
-## I have a SPC for the THE/EC, how does it work?
+## I have a SPC for an assessment, how does it work?
 
-SPC for the Take Home Exercises or Exercise Challenges will be carried out as an _Equivalent Assessment_ at a later stage, with the instructor on campus. An Equivalent Assessment covers the same content and at the same expectations, but can be done in a different format. The student must make sure they are made themselves available for it. For the THE assessments, it will basically be a set of exercises carried out on pen & paper.
+Unless the SPC is a short extension, it will will generally be carried out as an _Equivalent Assessment_ at a later stage, as a set of paper exercises with the instructor on campus. An Equivalent Assessment covers the same content and at the same expectations, but can be done in a different format. The student must make sure they are made themselves available for it. In most cases, it will basically be a set of exercises carried out on pen & paper (even if the original assessment was a programming task).
 
 ## The room for the time-based and timetabled assessment is not comfortable; can we get a larger room?
 
@@ -490,11 +490,11 @@ We hope this provides a bit more context and happy to hear. 😄
 
 Good one! This deserves its own separate answer [here](CODE-INTEGRITY.md).
 
-## Why did I get 57 in the assignment/project if it is 5% of the course?
+## Why did I get 57 in the assignment/project if it is just 5% of the course?
 
 There are many ways to mark an assessment piece. In my courses, I try to mark all assessments out of 100. So, even if the project or test was 5% of the course, you would get a final mark of 100, say 50 (out of 100) instead of 2.5 (out of 5), for the whole assessment piece. _Why?_
 
-The reason is that doing so provides a **uniform and consistent view of the student performance** **across assessments**, independent of the weight of each piece in the whole course. By doing so, you _always_ know that if you get 85 (an “HD” level), you did excellent in that assessment, and if you got 26 (a “PASS” level), then you did quite poorly. On the other hand, if one were to use the course weight of the assessment, then a 26 could mean anything: very good if the assessment was 30% of the course, and just OK if it was a 50% exam.
+The reason is that doing so provides a **uniform and consistent view of the student performance** **across assessments**, independent of the weight of each piece in the whole course. By doing so, you _always_ know that if you get 85, you did excellent in that assessment (at “HD” level), and if you got 56, then reached the minimum expectation (a “PASS” level) but there may be many gaps in your knowledge/skills to improve. On the other hand, if one were to use the course weight of the assessment, then a 26 could mean anything: very good if the assessment was 30% of the course, and just OK if it was a 50% exam.
 
 To get the final contribution to your course, you then need to _multiply the mark of the assessment by the weight of the assessment_. For example, if you got a 50 in Assignment 1, say, and the assessment was 5% of the course, this means that you have collected 2.5% of that assessment for the course.
 
@@ -545,7 +545,7 @@ You will recognise that several tips overlap with what was discussed above and s
 
 All the best & hope this helps!!
 
-## I will not be around for the final in-person assessment, can I take it online or before?
+## I will not be around for an in-person assessment, can I take it online or before?
 
 Students are expected to **make themselves available for all their assessments**, including in-person final ones between Weeks 13-16. This is normal and not just an RMIT thing, all universities have final assessment after the teaching weeks. 🙂
 
@@ -553,7 +553,7 @@ Therefore, we will **_not_** prepare and conduct assessments via video calls or 
 
 Remember we have 300+ students and everybody have their own constraints and personal circumstances (family, work, travel, holidays, etc.). It would be TOTALLY impossible for us to cater for each individual circumstances, we just do not have the bandwidth (and we educators also have our lives...).
 
-What you can do is to **apply for SPC early in advance**, and provide your evidence for such request. If granted, you will be allowed to take a new assessment in the **DEFERRED ASSESSMENT** period. For Semester 2, it is often early December. Please check the [Academic Calendar][RMIT-CALENDAR] of the year to know when exactly those assessment will be running. It is good you are thinking ahead on this, **good luck!**
+What you can do is to **apply for SPC early in advance**, and provide your evidence for such request. For final assessments after the semester, if granted, you will be allowed to take a new assessment in the **DEFERRED ASSESSMENT** period. For Semester 2, it is often early December. Please check the [Academic Calendar][RMIT-CALENDAR] of the year to know when exactly those assessment will be running. It is good you are thinking ahead on this, **good luck!**
 
 [AIMA-BOOK]: https://aima.cs.berkeley.edu/global-index.html
 [FORUM-FAQ]: https://docs.google.com/document/d/1HdrY91LIPRZOEni_jsCwmN8Oc8MrUzljen6qHzbtQeU/edit?usp=sharing
