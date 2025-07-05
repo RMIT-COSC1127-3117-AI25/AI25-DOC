@@ -1,4 +1,4 @@
-# RMIT COSC1125/1127 AI'25 Documentation
+# RMIT COSC3117/1127 AI'25 Documentation
 
 This repo contains a set of relevant FAQ pages for the course.
 

@@ -1,10 +1,10 @@
-# General FAQ for RMIT AI COSC1125/1127
+# General FAQ for RMIT AI COSC3117/1127
 
 As any FAQ page, this page is always "under construction”. As we realis that some questions become common, we add them here…
 
 For specific FAQ on programming projects see [here](FAQ-PROJECTS.md).
 
-- [General FAQ for RMIT AI COSC1125/1127](#general-faq-for-rmit-ai-cosc11251127)
+- [General FAQ for RMIT AI COSC3117/1127](#general-faq-for-rmit-ai-cosc31171127)
 - [WHY THIS FAQ?](#why-this-faq)
 - [THE AI COURSE](#the-ai-course)
   - [What is this course about? What is it NOT about?](#what-is-this-course-about-what-is-it-not-about)
@@ -17,12 +17,12 @@ For specific FAQ on programming projects see [here](FAQ-PROJECTS.md).
   - [I work outside and have other commitments, should I take this course?](#i-work-outside-and-have-other-commitments-should-i-take-this-course)
   - [Attendance: do I need to attend lectorials and tutorials?](#attendance-do-i-need-to-attend-lectorials-and-tutorials)
   - [Can I audit the course?](#can-i-audit-the-course)
-  - [I am enrolled in COSC1125 (PGRD) but my Canvas says COSC1127 (UGRD). Is everything OK?](#i-am-enrolled-in-cosc1125-pgrd-but-my-canvas-says-cosc1127-ugrd-is-everything-ok)
+  - [I am enrolled in COSC3117 (PGRD) but my Canvas says COSC1127 (UGRD). Is everything OK?](#i-am-enrolled-in-cosc3117-pgrd-but-my-canvas-says-cosc1127-ugrd-is-everything-ok)
   - [I enrolled late in the course, can you explain me about X, Y, and Z about the course? What should I do now?](#i-enrolled-late-in-the-course-can-you-explain-me-about-x-y-and-z-about-the-course-what-should-i-do-now)
   - [What version of the book is used in this course?](#what-version-of-the-book-is-used-in-this-course)
   - [GENERAL](#general)
   - [Course Survey Experience: what? why?](#course-survey-experience-what-why)
-  - [I have a question about the course, but it is not here!](#i-have-a-question-about-the-course-but-it-is-not-here)
+  - [I have a question about the course, but it is not here](#i-have-a-question-about-the-course-but-it-is-not-here)
 - [DISCUSSION FORUM \& FORUM ETIQUETTE](#discussion-forum--forum-etiquette)
   - [What is the Forum FAQ \& Forum Etiquette?](#what-is-the-forum-faq--forum-etiquette)
   - [Why do you use many platforms (EdStem, Canvas, GitHub, email, GH Classroom, Google, etc.) instead of just Canvas as other courses?](#why-do-you-use-many-platforms-edstem-canvas-github-email-gh-classroom-google-etc-instead-of-just-canvas-as-other-courses)
@@ -56,7 +56,6 @@ For specific FAQ on programming projects see [here](FAQ-PROJECTS.md).
   - [How do I prepare for the final in-person assessment (THE/EC)?](#how-do-i-prepare-for-the-final-in-person-assessment-theec)
   - [I will not be around for the final in-person assessment, can I take it online or before?](#i-will-not-be-around-for-the-final-in-person-assessment-can-i-take-it-online-or-before)
   
-
 # WHY THIS FAQ?
 
 This question is already answered in the [FAQ](FAQ-COURSE.md). 😉
@@ -67,7 +66,7 @@ If, somehow, you managed to get out of the [self-reference](https://en.wikipedia
 
 ## What is this course about? What is it NOT about?
 
-This is an introduction course to Artificial Intelligence. Machine Learning is one of the many sub-areas of AI and there is only a small component on ML, concretely we only see Reinforcement Learning. 
+This is an introduction course to Artificial Intelligence. Machine Learning is one of the many sub-areas of AI and there is only a small component on ML, concretely we only see Reinforcement Learning.
 
 The rest covers other areas of AI, which is much broader than ML: search, logic for knowledge representation, probabilistic reasoning, sequential decision making. If you are interested in ML itself, there are other courses that cover that (Comp ML, Deep Learning).
 
@@ -147,7 +146,7 @@ So, hope to see you in the room, interacting with teachers and fellow students!
 
 In general, auditing means attending the lectorials, which arguably is what you wouldn't be able to get elsewhere, the sublteties, "story", and interactivity with others.
 
-## I am enrolled in COSC1125 (PGRD) but my Canvas says COSC1127 (UGRD). Is everything OK?
+## I am enrolled in COSC3117 (PGRD) but my Canvas says COSC1127 (UGRD). Is everything OK?
 
 Yes, no need to worry. This is just a Canvas "hack" for cross-listed courses. We maintain only one site (COSC1127's one), but everybody in the course can access it. No problem.
 
@@ -176,8 +175,6 @@ Hope this is clear and all the best in the course!
 
 As of 2025, we use the [Global 4th edition][AIMA-BOOK] (not to be confused with the US 4th edition), which has a green cover.
 
-
-
 ## GENERAL
 
 ## Course Survey Experience: what? why?
@@ -194,7 +191,7 @@ The Course Survey gives the course and the teacher a score betwen 1 (very bad) a
 - **4**: you are judging the course/teacher as "just OK", maybe a bit lower than expected but not so much. Not a great course, but also not a disaster. 😢
 - **5**: you are judging the course/teacher to be good. 👍
 
-This means that a **score of 3 is _not_ "neutral"**, it is basically a negative judgment: _a poor, though not terrible, course._ Almost no student is aware of this fact, unfortunately.... 😕 
+This means that a **score of 3 is _not_ "neutral"**, it is basically a negative judgment: _a poor, though not terrible, course._ Almost no student is aware of this fact, unfortunately.... 😕
 
 Nevertheless, regardless of how student feedback is used by Universities, in my view, **the best use of student feedback is for the students themselves**! What I mean is that it is very useful for prospective students to know what previous fellow students have said about the course in general and the lecturer. This allows students to set their mind in the right way, plan ahead and prepare, and build accurate expectations. Basically, _would you recommend this course to a friend?_ Would you recommend the lecturer? _While the results are generally not given to students, **_I personally show my previous results for my courses_**.
 
@@ -231,7 +228,7 @@ Finally, if you are interested in education in general, and university and unive
 
 I think that as a University student and future graduate, you should know about all this, be interested, and form your own informed opinion. _Your journey at uni should be much more than collecting credits and learning predicate logic!_ **_Enjoy it!_**
 
-## I have a question about the course, but it is not here!
+## I have a question about the course, but it is not here
 
 If you have any questions about the course that you think other fellow students may be also interested to learn, please post it in the forum!
 
@@ -252,22 +249,21 @@ In general, for this course we are mostly using EdStem and GitHub alone, that's 
 More broadly, I am on the opinion that it is actually _not_ so good for the student learning to prioritize "uniformity" due to (at least) two reasons:
 
 1. First, it is just **impossible and unrealistic in Computer Science**: there are lots of technologies and systems around that are all useful in their own way and that different people use, be Github, Slack, Canvas, Latex, email, Discord, Edstem, Travis, Jira, stack-overflow, Menti, etc.
-   * A good CS practicioner should not only be versed on many of them, but also flexible adaptive enough to learn and manage new ones as they are needed or requested (e.g., at work or on an open-source project).
-   * As a student itself put it in a feedback: _"I like the fact that our submission is done through GitHub as it provides some industrial sample."_
+   - A good CS practicioner should not only be versed on many of them, but also flexible adaptive enough to learn and manage new ones as they are needed or requested (e.g., at work or on an open-source project).
+   - As a student itself put it in a feedback: _"I like the fact that our submission is done through GitHub as it provides some industrial sample."_
 2. As an educator, I _personally_ **don't believe in a "McDonald"-type uniform approach to education and learning**, under which everything is in the same place, color, format, size, and taste 😆.
-   * While uniformity may provide a sense of "safety" to students, it does not train them to be _flexible_ and _adaptive_. It also does not recognise that there are indeed different teachers and different styles of teaching, like in the real world.
-   * So, I do think it is beneficial for students to be exposed to different style of teachers and teaching styles, so they can learn many ways, not just "one way". 😃
+   - While uniformity may provide a sense of "safety" to students, it does not train them to be _flexible_ and _adaptive_. It also does not recognise that there are indeed different teachers and different styles of teaching, like in the real world.
+   - So, I do think it is beneficial for students to be exposed to different style of teachers and teaching styles, so they can learn many ways, not just "one way". 😃
 
 Now, the above **does _not_ mean that one can use many different things/tools/platform just for the sake of making things non-uniform!** There must be a technical reason behind! The point is that _if_ there is a tool X that solves problem A better, then fine, let's use X and accept that not everything comes in the same way.
 
 Note that **sometimes a student may not _directly_ understand** in which sense an option is "better", but here is where we expect students to trust the expertise and experience of the teacher, as much as one trusts a pilot when boarding a plane!
 
-* For example, a student may not understand why we don't use Canvas discussion forum and the fact that forums like EdStem and Piazza not only increases engagement a lot (between 7x to 10x), but also are much much more productive for the teaching staff, which in turn allows staff to answer way many more questions and quicker, thus providing better service for more students.
+- For example, a student may not understand why we don't use Canvas discussion forum and the fact that forums like EdStem and Piazza not only increases engagement a lot (between 7x to 10x), but also are much much more productive for the teaching staff, which in turn allows staff to answer way many more questions and quicker, thus providing better service for more students.
 
 Finally, I note that this is **MY approach/view/perspective to Computer Science and Education** at uni level, this part of my "teaching style".  I accept others have a different view and see more benefits in prioritizing uniformity above everything else.
 
 I hope this shed some light on the issue, and of course if a student has a better way/tool to do something within the course, **I am always open to constructive suggestions** and I will, without hesitation, adopt them if they are provably better and accessible.
-
 
 # LECTORIALS & TUTORIALS
 
@@ -332,7 +328,7 @@ Because there seems to be more students than the room capacity, they opened an a
 
  Fine, and everybody can watch the recording, but there is always a LOT of free space in the classroom so you are always welcome to join. See the next section for "recordings" of the session.
 
-## Will there be lectorial recordings? 
+## Will there be lectorial recordings?
 
 YES! Lectorials are meant to be automatically recorded under **Echo360**. In fact, because presumably there are too many students enrolled in the course, they opened a "`01_Canvas`" registration which means that it can be taken online via the recording. Said so, as I stated in the first lectorial and it was obvious, there is ALWAYS plenty of space in the room (which is great!), so this should not be an issue at all.
 
@@ -348,7 +344,6 @@ Last, but not least, showing up and "being there", even if not asking, is a way 
 
 Said so, uni is not school, so I cannot obliged anyone to come to lectorials and ultimately it is up to each student. There is no direct penalty for not attending lectorials, except when there are assessments (in which case not attending attracts zero marks and warrants no re-submission of the component).
 
-
 ## When are we getting the tute solutions and why are we not getting them all quickly?
 
 The short answer is that we aim to actively promote **"production-based”** learning rather than **"consumption-based”**. Seeing a solution does not match the learning achieved when producing the solution. So, as educators, we want to set-up the best mechanisms to increase the active production-based learning in the majority of students. Surely, nothing is perfect and nothing works across the board, but we are teaching for a large class and not for a small group and it is our responsibility to address the learning of the majority of students.
@@ -359,14 +354,14 @@ In tutorials you can always check with the tutor your solution, provided you sho
 
 ## What about tutes, labs, consultation times? Will they be recorded?
 
-Tutes, labs, consultation times, ad-hoc online meetings/sessions, are all interactive and spontaneous in nature. They are _not_ curated (as youtube channels often are) and there are often many people participating, students plus the teaching staff. We want to make these sessions as welcomed and inclusive as possible, without fear of saying wrong things or making mistakes. 👐 
+Tutes, labs, consultation times, ad-hoc online meetings/sessions, are all interactive and spontaneous in nature. They are _not_ curated (as youtube channels often are) and there are often many people participating, students plus the teaching staff. We want to make these sessions as welcomed and inclusive as possible, without fear of saying wrong things or making mistakes. 👐
 
 So, they will not be recorded:
 
 1. We want to promote **active contribution** and **participation**.  There is no contribution when one just watches what others have done. To contribute, one needs to "be there".
 2. It has been clear that recordings make some people who **would otherwise attend**, not attend. Bad outcome indeed.
 3. Most importantly, we aim to **remove any potential obstacle** on people talking, asking (even silly questions), making mistakes, answering (even if wrongly), etc. without the feeling that they have been recorded and then watched by many others.
-   * Note this is also one of the main reasons why we use EdStem: it allows _anonymous posts_ and it has been prove that this increases participation a LOT!
+   - Note this is also one of the main reasons why we use EdStem: it allows _anonymous posts_ and it has been prove that this increases participation a LOT!
 
 This rationale is intended to _promote_ a better learning environment on the whole. Of course, nothing is perfect and, analogous to programming languages, we can only _promote_ a paradigm (but not fully force it!) 😉
 
@@ -440,11 +435,11 @@ The dates of all assessments in this course are given well in advance. Plan earl
 
 However, if you know you will be unable to complete an assignment due to illness or personal circumstances outside of your control, please contact your lecturer immediately for special consideration and submit the [Application for Extension of Time for Submission of Assessable Work Form](https://www.rmit.edu.au/content/dam/rmit/au/en/students/documents/my-course/assessment-results/application-extension.pdf):
 
-* **Evidence will be required** (e.g., medical certificate).
-* As per policy, you must submit your request **at least one _working_ day before the original due date**. Do not expect or request that I (or other teaching staff) will be working on weekends or after hours. Requests received close to the assessment date (or after the date!) will generally not be accepted except in the most extreme circumstances. We encourage students to plan days and weeks ahead, and to discourage last minute pleas for help.
-* **Do not just stop working and "wait" when you submit your request.** First, you do not know if it will be granted. Second, we expect you will still be working on the project and the extension will be based on that. Keep working and even submit as early as you can before receiving the notification and decision.
-* Evidence of sustainable work on the assessment will strengthen your case.
-* You may be required to explain how the extension will affect your future study deadlines, for this and other courses. We are always careful to ensure that any extension does not impede too much on other assessment, and does not have a domino effect.
+- **Evidence will be required** (e.g., medical certificate).
+- As per policy, you must submit your request **at least one _working_ day before the original due date**. Do not expect or request that I (or other teaching staff) will be working on weekends or after hours. Requests received close to the assessment date (or after the date!) will generally not be accepted except in the most extreme circumstances. We encourage students to plan days and weeks ahead, and to discourage last minute pleas for help.
+- **Do not just stop working and "wait" when you submit your request.** First, you do not know if it will be granted. Second, we expect you will still be working on the project and the extension will be based on that. Keep working and even submit as early as you can before receiving the notification and decision.
+- Evidence of sustainable work on the assessment will strengthen your case.
+- You may be required to explain how the extension will affect your future study deadlines, for this and other courses. We are always careful to ensure that any extension does not impede too much on other assessment, and does not have a domino effect.
 
 Each request will be considered on an individual basis. If the request is approved, the deadline for the assignment will be extended. If the request is denied and the assessment missed, you will unfortunately receive a zero for that assessment. Remember though that it is always possible to submit late.
 
@@ -452,7 +447,6 @@ Note that in many cases (e.g., long extensions), though, I cannot grant unilater
 
 > [!IMPORTANT]
 > If your application relates to a request for an extension of time for submittable work (such as assignments, projects, essays, etc.) to either the instructor or SPC team, it is expected that you will continue to progress that work and submit it as soon as possible while your application is under consideration. Do not just wait idle until the notification arrives. Your are expected to continue working and submit the assessment as soon as you could, while your application is being assessed.
-
 
 ## I am very busy with other commitments (work, other subjects, travel, etc.) and may not be able to make the deadline, can I get an extension?
 
@@ -538,20 +532,18 @@ So, the two main issues I have seen repetitively that amount to poor quality stu
 
 1. Study under continuous distraction (e.g., tv, whatsapp, discord, youtube, etc..).
 2. Excessive reliance on external help/support, that is, very often (if not always) having to check solutions (or videos). This signals inability to solve a problem from first principle _by oneself_, without relying on external help.
-   * One actually knows the content once one can execute and solve problems "alone".
-   * Being able to understand how others solve the problem is a first initial step, but definitively does not imply good level of understanding and skills.
-   * It is always fairly easy to recognise a good play or move from a sport player; or a good piece of art from an artist. It is a very different thing to be able to do the play or generate art. :-)
-   * And for those who took Computing Theory, remember the NP class: it is easy to _check_ a solution, but much much harder to _build_ it.
-
+   - One actually knows the content once one can execute and solve problems "alone".
+   - Being able to understand how others solve the problem is a first initial step, but definitively does not imply good level of understanding and skills.
+   - It is always fairly easy to recognise a good play or move from a sport player; or a good piece of art from an artist. It is a very different thing to be able to do the play or generate art. :-)
+   - And for those who took Computing Theory, remember the NP class: it is easy to _check_ a solution, but much much harder to _build_ it.
 
 Finally, check this great guidance on how to do effective study, from Coursera:
 
-https://www.coursera.org/articles/study-habits
+<https://www.coursera.org/articles/study-habits>
 
 You will recognise that several tips overlap with what was discussed above and suggest that besides putting time, one has to do it well, with quality.
 
 All the best & hope this helps!!
-
 
 ## I will not be around for the final in-person assessment, can I take it online or before?
 
@@ -563,10 +555,8 @@ Remember we have 300+ students and everybody have their own constraints and pers
 
 What you can do is to **apply for SPC early in advance**, and provide your evidence for such request. If granted, you will be allowed to take a new assessment in the **DEFERRED ASSESSMENT** period. For Semester 2, it is often early December. Please check the [Academic Calendar][RMIT-CALENDAR] of the year to know when exactly those assessment will be running. It is good you are thinking ahead on this, **good luck!**
 
-
 [AIMA-BOOK]: https://aima.cs.berkeley.edu/global-index.html
 [FORUM-FAQ]: https://docs.google.com/document/d/1HdrY91LIPRZOEni_jsCwmN8Oc8MrUzljen6qHzbtQeU/edit?usp=sharing
 [FORUM-POSTING]: https://docs.google.com/document/d/1HdrY91LIPRZOEni_jsCwmN8Oc8MrUzljen6qHzbtQeU/edit#heading=h.nj8m4hp7jeo2
 [RMIT-SPC]: http://www.rmit.edu.au/students/specialconsideration
 [RMIT-CALENDAR]: https://www.rmit.edu.au/students/my-course/important-dates
-
