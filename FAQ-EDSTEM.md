@@ -11,13 +11,15 @@
 
 It is nicer, faster, and more productive for everyone (students and staff).
 
-Forums like EdStem and Piazza have not only increases engagement a lot (between 7x to 10x), but also are much much more productive for the teaching staff, which in turn allows staff to answer way many more questions and quicker, thus providing better service for more students.
+Forums like EdStem and Piazza have not only increases engagement significantly (between 7x to 10x), but are also much, much, more effective for the teaching staff, which in turn allows them to answer many more questions and quicker, thus providing better service for more students. This is even more important in large classes, of course.
 
-We can start naming all the mamy things that EdStem does much better (nicer and more efficiently), but I leave it to you to find out... 😉
+Many of our CS courses are now using EdStem, including all large Math courses, Algoritms and Analysis, Computing Theory, Essentials of Computing, Foundations of AI, etc.
+
+We can start naming all the many things that EdStem does much better (nicer and more efficiently), but I leave it to you to find out... 😉
 
 ## What are the expected behavior and etiquette rules for the forum?
 
-Please see dedicated [Forum FAQ & Etiquette]([FORUM-FAQ] and in particular [how to post][FORUM-POSTING] with class. 😄
+Please see dedicated [Forum FAQ & Etiquette][FORUM-FAQ] and in particular [how to post][FORUM-POSTING] with class. 😄
 
 
 ## Is there a short guide/description for EdStem?
