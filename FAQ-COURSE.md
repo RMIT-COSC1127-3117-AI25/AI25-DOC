@@ -55,6 +55,7 @@ For specific FAQ on programming projects see [here](FAQ-PROJECTS.md).
   - [Why did I get 57 in the assignment/project if it is just 5% of the course?](#why-did-i-get-57-in-the-assignmentproject-if-it-is-just-5-of-the-course)
   - [How do I prepare for the final in-person assessment (THE/EC)?](#how-do-i-prepare-for-the-final-in-person-assessment-theec)
   - [I will not be around for an in-person assessment, can I take it online or before?](#i-will-not-be-around-for-an-in-person-assessment-can-i-take-it-online-or-before)
+  - [I would like to challenge the final assessment (review period after grade release); can I do it?](#i-would-like-to-challenge-the-final-assessment-review-period-after-grade-release-can-i-do-it)
   
 # WHY THIS FAQ?
 
@@ -555,8 +556,26 @@ Remember we have 300+ students and everybody have their own constraints and pers
 
 What you can do is to **apply for SPC early in advance**, and provide your evidence for such request. For final assessments after the semester, if granted, you will be allowed to take a new assessment in the **DEFERRED ASSESSMENT** period. For Semester 2, it is often early December. Please check the [Academic Calendar][RMIT-CALENDAR] of the year to know when exactly those assessment will be running. It is good you are thinking ahead on this, **good luck!**
 
+## I would like to challenge the final assessment (review period after grade release); can I do it?
+
+Of course! If you believe there has been a **factual error in the marking** of your final assessment, you may request a review. However, please follow these important guidelines when preparing your request:
+
+- **Focus only on concrete, objective issues** — for example, parts of your answer that were not considered, correct answers that were marked as incorrect, or incorrect tallying of marks.
+- **Do not include subjective opinions** — such as how many marks you believe you "deserve" or whether you feel your answer should have received more credit. These will not be considered.
+- **Be precise and specific**: indicate the exact question, the part of your answer in question, and clearly explain the marking issue.
+- Always **provide supporting evidence** — for example, cite the relevant lecture content, textbook, or marking guide to justify your claim.
+
+Requests that are vague, emotional, or speculative will not be reviewed.
+
+Please send your review request in by filling and emailing the  **Review of Assessment Results** form within the allowed timeframe. The review will focus **strictly on the factual marking accuracy**, not on re-evaluating academic judgement or partial credit.
+
+> [!IMPORTANT]
+> When a review is performed upon request, the final mark can go up, stay the same, or go down.
+
 [AIMA-BOOK]: https://aima.cs.berkeley.edu/global-index.html
 [FORUM-FAQ]: https://docs.google.com/document/d/1HdrY91LIPRZOEni_jsCwmN8Oc8MrUzljen6qHzbtQeU/edit?usp=sharing
 [FORUM-POSTING]: https://docs.google.com/document/d/1HdrY91LIPRZOEni_jsCwmN8Oc8MrUzljen6qHzbtQeU/edit#heading=h.nj8m4hp7jeo2
 [RMIT-SPC]: http://www.rmit.edu.au/students/specialconsideration
 [RMIT-CALENDAR]: https://www.rmit.edu.au/students/my-course/important-dates
+
+
