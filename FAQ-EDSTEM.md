@@ -9,9 +9,9 @@
 
 ## Why do we use EdStem for the course and not Canvas discussion forum?
 
-It is nicer, faster, and more productive for everyone (students and staff).
+It is nicer, faster, and more productive for everyone (students and staff). ⏩
 
-Forums like EdStem and Piazza have not only increases engagement significantly (between 7x to 10x), but are also much, much, more effective for the teaching staff, which in turn allows them to answer many more questions and quicker, thus providing better service for more students. This is even more important in large classes, of course.
+Forums like EdStem and Piazza have not only increases engagement significantly (between 7x to 10x ⏫), but are also much, much, more effective for the teaching staff, which in turn allows them to answer many more questions and quicker, thus providing better service for more students. This is even more important in large classes, of course.
 
 Many of our CS courses are now using EdStem, including all large Math courses, Algoritms and Analysis, Computing Theory, Essentials of Computing, Foundations of AI, etc.
 
