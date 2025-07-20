@@ -131,11 +131,12 @@ That will not only show very poor SE practices (because dummy commits are not me
 
 ## Git, GitHub, what is that?
 
-We will use proper (git) version control in all our programming projects. This is totally standard practice in the industry and you would have seen that in previous courses (SEF and SEPT at least). Said so, if you want to refresh or have a quick intro to it, here are two resources I found useful:
+We will use proper (git) version control in all our programming projects. This is totally standard practice in the industry and you would have seen that in previous courses (SEF and SEPT at least). Said so, if you want to refresh or have a quick intro to it, here are some resources I found useful:
 
+- [100 seconds video summary of GIT](https://www.youtube.com/watch?v=hwP7WQkmECE)
+- [Online book section about version control](https://cis-projects.github.io/project_based_course_notes/topics/version_control.html) developed by colleagues at Mel Uni for SE courses.
 - [30' video on Git & GitHub](https://youtu.be/jG4Vs81kMlc).
 - [GitHub Guides](https://guides.github.com/).
-- [Git \& GitHub Tutorial & Reference @ Javatpoint](https://www.javatpoint.com/git).
 
 There are lots more good resources on the web of course!
 
