@@ -33,6 +33,7 @@ For specific FAQ on programming projects see [here](FAQ-PROJECTS.md).
   - [When are lecture slides made available?](#when-are-lecture-slides-made-available)
   - [What is the `01_Canvas` session?](#what-is-the-01_canvas-session)
   - [Will there be lectorial recordings?](#will-there-be-lectorial-recordings)
+  - [How important is attending in person?](#how-important-is-attending-in-person)
   - [When are we getting the tute solutions and why are we not getting them all quickly?](#when-are-we-getting-the-tute-solutions-and-why-are-we-not-getting-them-all-quickly)
   - [What about tutes, labs, consultation times? Will they be recorded?](#what-about-tutes-labs-consultation-times-will-they-be-recorded)
   - [Why don't we get the concrete final answer to questions instead of getting a rephrase of questions or a question back?](#why-dont-we-get-the-concrete-final-answer-to-questions-instead-of-getting-a-rephrase-of-questions-or-a-question-back)
@@ -296,7 +297,7 @@ Please note that I, your program managers, or your course coordinators are unabl
 
 **No!. Ouch! What, no lectures?**
 
-Following RMIT directions, the course will _not_ run standard lectures, in which the instructor presents the material of the week from scratch, that is, without assuming any previous knowledge from the student. In a standard lecture, the instructor will start with the motivation of the content (e.g., why search is important and where can it be used) and then provide all definitions, concepts, and notions from zero (e.g., what is a state, what is the search tree/graph, explain in detail each search algorithm, provide the complexity of each algorithm, etc.). So a student could rock up to the lecture and listen to the lecturer provide all the information from the beginning.
+Following RMIT directions, courses are not meant to run standard lectures, in which the instructor presents the material of the week from scratch, that is, without assuming any previous knowledge from the student. In a standard lecture, the instructor will start with the motivation of the content (e.g., why search is important and where can it be used) and then provide all definitions, concepts, and notions from zero (e.g., what is a state, what is the search tree/graph, explain in detail each search algorithm, provide the complexity of each algorithm, etc.). So a student could rock up to the lecture and listen to the lecturer provide all the information from the beginning.
 
 All that will NOT happen in this course. Instead, **lectorials are interactive and more targeted teaching sessions**. Importantly, it will be **expected that students** will have already read, in detail, the reading assigned for the week (mostly from the course book), and hence the instructor can focus on more crucial aspects of the content that the student may not be able to gather themselves. The objectives of a lectorial will then be:
 
@@ -306,6 +307,10 @@ All that will NOT happen in this course. Instead, **lectorials are interactive a
 4. Execute, together with the whole class, some _sample exercises_. Students will be given an exercise and they will be given some time (say 5’-10’) to solve it, maybe in groups. Then the whole class will reunite and go over the exercise together.
 
 As one can observe points 1-4 make no sense for a student who rocks up to the class without having pre-read the material with enough detail. A student who does not know what a “state” or “search space” or what DFS or IDM is, will not be able to take advantage of such a lectorial session, as the instructor will not explain any of those concepts and they will be assumed to be known.
+
+> [!NOTE]
+> Said so, I personally agree with current educational standards (e.g., Science of Learning) based on cognitive-science research on how students learn. In that approach, at the early part of the learning, **explicit teaching** is important, to reduce cognitive load. So, lectures will have significant time devoted to parts 1 and 2 above, where the key points of the content will be explicitly communicated.
+
 
 ## Can I attend in-person lectorials/tutorials remotely?
 
@@ -331,19 +336,38 @@ Because there seems to be more students than the room capacity, they opened an a
 
 ## Will there be lectorial recordings?
 
-YES! Lectorials are meant to be automatically recorded under **Echo360**. In fact, because presumably there are too many students enrolled in the course, they opened a "`01_Canvas`" registration which means that it can be taken online via the recording. Said so, as I stated in the first lectorial and it was obvious, there is ALWAYS plenty of space in the room (which is great!), so this should not be an issue at all.
+YES! Lectorials are meant to be automatically recorded under **Echo360**. In fact, because presumably there are too many students enrolled in the course, they opened a "`01_Canvas`" registration which means that it can be taken online via the recording. Said so, there is ALWAYS plenty of space in the room (which is great!), so this should not be an issue at all.
 
-While lectorials are recorded in ECHO365, there are two important caveats to this that you should know:
+While lectorials are recorded in ECHO365, the recordings are **out of my control**, and in the past there have been numerous issues with recordings, including missing recordings, muted recordings, noisy or very low audio, no video, truncated videos, missing projection, etc. There could also be privacy issues (e.g., students asking perosonal questions close to the mic) that need to be addressed before the recodigns goes out.
 
-1. **Recordings are out of my control** and in the past there have been numerous issues with recordings, including missing recordings, muted recordings, noisy or very low audio, no video, truncated videos, missing projection, etc. Because of this and the fact that being in the room face-to-face is probably the main benefit of taking a Uni course rather than online videos, I strongly suggest students to _make the effort and attend sessions in person_.
+Check the next question...
 
-2. **Recordings need to be checked, processed/edited before full release**. Among other things, recordings have the potential of "catching" private conversations that need to be trimmed. Because this is quite a time consuming task (and I have plenty of other course-related things to attend), I often do this inspection and editing in batches, so expect recordings with a delay.
+## How important is attending in person?
 
-The key here is that recordings are **NOT meant to be used as replacements of the in-person session**, but rather review material for later (e.g., to double check). So, I would strongly suggest not counting on them and encourage everyone to join the show in person! Arguably, recordings could also be very very "boring": long, not curated, with gaps and silences (or very low volume) due to interactions in the room, etc.
+Great question! 👍 I would hope that my "live" lectures are better quality than watching a recording, ha! 😃 Is it the same to watch a football game on TV or in the stadium? ⚽ 
 
-Last, but not least, showing up and "being there", even if not asking, is a way to **contribute to the learning environment**: to your learning and the learning of everyone around. So, let's take full advantage and be thankful that we can get together again, now that COVID is over. :-)
+First, except for the in-person assessments, there are no actual assessments in class. 👌  Uni is not school. There is no direct penalty for not attending lectorials, except when there are assessments (in which case not attending attracts zero marks and warrants no re-submission of the component!).
 
-Said so, uni is not school, so I cannot obliged anyone to come to lectorials and ultimately it is up to each student. There is no direct penalty for not attending lectorials, except when there are assessments (in which case not attending attracts zero marks and warrants no re-submission of the component).
+However, I am convinced that **attending in person has many benefits over the video** and that it **produces better outcomes** in general because:
+
+1. In-person attendance encourages **active listening**, note-taking, and asking questions. The physical environment minimizes multitasking compared to watching a video where distractions are easy.
+2. You can **ask** questions, **participate** in discussions, and **clarify** points on the spot. Non-verbal cues from the lecturer (I!)  (emphasis, gestures, tone) help you better understand and retain the material.
+3. Attending lectures gives **structure to your day**, which can improve time management and study habits. Watching recordings “later” often turns into procrastination or never, especially if not reinforced by deadlines.
+4. Being there allows you to **learn as a community**, it brings fun and a sense of "team". You will be able to participate in the competition quizzes, to laugh together, to hear other's questions well.  Very importantly, by being there you have **big chances of making friends, future colleagues, and even partners in life** (many find their significant other at uni!). All this makes reduces friction and hence improve learning and enjoyment.
+5. Watching **recordings** often means pausing and rewinding, which can feel efficient but **adds cognitive overhead**. Live lectures unfold at a natural pace that supports understanding over time.
+6. Finally, by "being there" you make sure you **"get what it is"** and minimizes risks. Recordings can fail, or can be of not great quality.
+
+Being a uni course, we expect learners, students, to be **more autonomous** on your decision (unlike school students), and we understand everyone's circumstances are different. It is ultimately _your_ choice whether to be there or not. But, overall, the recording is, in my view, a second rated version; OK for some, but not the "quality" product. 😉 
+
+**Maybe this is my recommendation.** Two years ago, in the second to last lecture, a student came after the lecture and said to me: 
+
+> I didn't realise until now that the live lectures where so much better than watching the recordings, so much better. I have been watching all the recordings after the class, but this is so much better and fun, I really enjoyed but I feel bad I didn't come since the start.
+
+This actually happened! I thanked the student for his words; of course I felt good that he liked it, and valued his positive feedback. Also was good that he managed to get two lectures at least (he came back for the final one). However, I felt sad that a good motivated student like him has lost an opportunity... 😢 Opportunities are to be taken there, when they are.
+
+So, **maybe do the effort and come for the first ones and then make a decision?** The room is really beautiful eh... 😉 
+
+Hope this provides some context for you to make a better decision, but ultimately it is yours.. 🙏
 
 ## When are we getting the tute solutions and why are we not getting them all quickly?
 
