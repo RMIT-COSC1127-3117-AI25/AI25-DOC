@@ -328,9 +328,11 @@ Said so, when the slides have useful information (e.g., news or specific technic
 
 ## What is the `01_Canvas` session?
 
-Because there seems to be more students than the room capacity, they opened an additional "Canvas" section, which means the lectorial will be recorded:
+The additional "Canvas" section means the lectorial will be recorded:
 
 ![](img/canvas_session.png)
+
+Note this does not mean hybrid concurrent teaching, RMIT stopped that several semesters ago. It was used during COVID as emergency, but is not relevant anymore.
 
  Fine, and everybody can watch the recording, but there is always a LOT of free space in the classroom so you are always welcome to join. See the next section for "recordings" of the session.
 
