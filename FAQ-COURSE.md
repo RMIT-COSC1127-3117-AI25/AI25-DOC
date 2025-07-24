@@ -34,6 +34,7 @@ For specific FAQ on programming projects see [here](FAQ-PROJECTS.md).
   - [What is the `01_Canvas` session?](#what-is-the-01_canvas-session)
   - [Will there be lectorial recordings?](#will-there-be-lectorial-recordings)
   - [How important is attending in person?](#how-important-is-attending-in-person)
+  - [I couldn't attend the lectorial, can you tell me what happened and what I should know?](#i-couldnt-attend-the-lectorial-can-you-tell-me-what-happened-and-what-i-should-know)
   - [When are we getting the tute solutions and why are we not getting them all quickly?](#when-are-we-getting-the-tute-solutions-and-why-are-we-not-getting-them-all-quickly)
   - [What about tutes, labs, consultation times? Will they be recorded?](#what-about-tutes-labs-consultation-times-will-they-be-recorded)
   - [Why don't we get the concrete final answer to questions instead of getting a rephrase of questions or a question back?](#why-dont-we-get-the-concrete-final-answer-to-questions-instead-of-getting-a-rephrase-of-questions-or-a-question-back)
@@ -370,6 +371,14 @@ This actually happened! I thanked the student for his words; of course I felt go
 So, **maybe do the effort and come for the first ones and then make a decision?** The room is really beautiful eh... 😉 
 
 Hope this provides some context for you to make a better decision, but ultimately it is yours.. 🙏
+
+## I couldn't attend the lectorial, can you tell me what happened and what I should know?
+
+The short answer is: _no_. 😉
+
+We understand that sometimes things come up and you may not be able to attend a class or workshop. However, please note that with a course of over 400+ students, it is unfortunately **not feasible** (or smart use of limited resrouces) for teaching staff to individually recap content from missed sessions on request.
+
+It is **each student's responsibility** to catch up on missed material independently. I recommend reviewing any shared workshop slides, notes, recordings (if available), or speaking with classmates to go over what was covered. If, after doing that, you have specific questions about the material, we’re more than happy to help clarify them.
 
 ## When are we getting the tute solutions and why are we not getting them all quickly?
 
