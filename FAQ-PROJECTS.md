@@ -349,7 +349,7 @@ $ pip install -r requirements.txt
 Always make sure to **activate your virtual environment** before running the project!
 
 > [!WARNING]
-> If the dependencies aren't installed correctly, you will encounter errors saying certain modules cannot be found (e.g. [this question](https://github.com/RMIT-COSC1127-3117-AI25/AI25-DOC/blob/main/FAQ-PROJECTS.md#cannot-run-pacman-due-to-problems-with-tkinter-importerror-no-module-named-tkinter) and [this question](https://github.com/RMIT-COSC1127-3117-AI25/AI25-DOC/blob/main/FAQ-PROJECTS.md#cannot-run-pacman-due-to-problems-with-tkinter-importerror-no-module-named-tkinter)).
+> If the dependencies aren't installed correctly, you will encounter errors saying certain modules cannot be found (e.g. [this question](https://github.com/RMIT-COSC1127-3117-AI25/AI25-DOC/blob/main/FAQ-PROJECTS.md#i-get-modulenotfounderror-no-module-named-func_timeout-why) and [this question](https://github.com/RMIT-COSC1127-3117-AI25/AI25-DOC/blob/main/FAQ-PROJECTS.md#cannot-run-pacman-due-to-problems-with-tkinter-importerror-no-module-named-tkinter)).
 
 If there are any remaining errors or doubts, please check the rest of the [Python](https://github.com/RMIT-COSC1127-3117-AI25/AI25-DOC/blob/main/FAQ-PROJECTS.md#python) and [Pacman](https://github.com/RMIT-COSC1127-3117-AI25/AI25-DOC/blob/main/FAQ-PROJECTS.md#general-pacman) sections in this Project FAQ. If neither resource answers your question, ask in the Ed forum! 🙂
 
