@@ -30,6 +30,7 @@ As any FAQ page, this page is always "under construction". As we realize that so
 - [I can't open a project in VSCode when clicking the button from GitHub](#i-cant-open-a-project-in-vscode-when-clicking-the-button-from-github)
 - [PYTHON](#python)
   - [What version of Python should I use?](#what-version-of-python-should-i-use)
+  - [How can I install project dependencies?](#how-can-i-install-project-dependencies)
   - [How do I run Python 3.8 in `coreteachingXX.csit.rmit.edu.au`?](#how-do-i-run-python-38-in-coreteachingxxcsitrmiteduau)
     - [How do I install a package/module in `coreteaching` using `pip`?](#how-do-i-install-a-packagemodule-in-coreteaching-using-pip)
   - [How do I know the type of a variable in Python?](#how-do-i-know-the-type-of-a-variable-in-python)
@@ -319,6 +320,38 @@ Some Linux distributions come with both `python2` and `python3` installed but de
 Additionally, in order to render the game, the homework projects require the Python module `tkinter` to be installed. You can follow the [official docs](https://tkdocs.com/tutorial/install.html) to get `tkinter` on your platform if it is not installed already. If you are using Linux, many distributions have packaged `tkinter` for easy install and you should use the package manager to install it. The package name is `python3-tk` for Debian/Ubuntu, `python3-tkinter` for RHEL/Fedora and `tk` for Manjaro/Arch.
 
 There is no problem **having more than one Python version installed in your machine**, you just need to be careful your code is using the right one. You can use Python Package and Environment Managers, such as [Conda](https://www.freecodecamp.org/news/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c/) or [miniconda](https://conda.io/miniconda.html) environments, or an environment with [PIP+virtualenv](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/).
+
+## How can I install project dependencies?
+
+Projects include some dependencies that must be installed before attempting any questions or invoking the autograder. These dependencies are listed in the `requirements.txt` file.
+We recommend installing these dependencies into a virtual environment, _not_ your global Python installation. To create a virtual environment directory called `.venv`:
+
+```
+$ python -m venv .venv
+```
+
+Once the virtual environment has been created, activate it:
+
+```
+$ source .venv/bin/activate
+```
+
+> [!IMPORTANT]
+> The `source` command for activating the virtual environment will vary depending on which platform and shell you are using.
+> Refer to [this table](https://docs.python.org/3/library/venv.html#how-venvs-work) for the correct command.
+
+Then, once the virtual environment is active, **install all project dependencies** before continuing:
+
+```
+$ pip install -r requirements.txt
+```
+
+Always make sure to **activate your virtual environment** before running the project!
+
+> [!WARNING]
+> If the dependencies aren't installed correctly, you will encounter errors saying certain modules cannot be found (e.g. [this question](https://github.com/RMIT-COSC1127-3117-AI25/AI25-DOC/blob/main/FAQ-PROJECTS.md#cannot-run-pacman-due-to-problems-with-tkinter-importerror-no-module-named-tkinter) and [this question](https://github.com/RMIT-COSC1127-3117-AI25/AI25-DOC/blob/main/FAQ-PROJECTS.md#cannot-run-pacman-due-to-problems-with-tkinter-importerror-no-module-named-tkinter)).
+
+If there are any remaining errors or doubts, please check the rest of the [Python](https://github.com/RMIT-COSC1127-3117-AI25/AI25-DOC/blob/main/FAQ-PROJECTS.md#python) and [Pacman](https://github.com/RMIT-COSC1127-3117-AI25/AI25-DOC/blob/main/FAQ-PROJECTS.md#general-pacman) sections in this Project FAQ. If neither resource answers your question, ask in the Ed forum! 🙂
 
 ## How do I run Python 3.8 in `coreteachingXX.csit.rmit.edu.au`?
 
