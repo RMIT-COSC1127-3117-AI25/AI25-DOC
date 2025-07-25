@@ -587,9 +587,9 @@ Students are expected to **make themselves available for all their assessments**
 
 Therefore, we will **_not_** prepare and conduct assessments via video calls or online; or also individual one-to-one assessments.
 
-Remember we have 300+ students and everybody have their own constraints and personal circumstances (family, work, travel, holidays, etc.). It would be TOTALLY impossible for us to cater for each individual circumstances, we just do not have the bandwidth (and we educators also have our lives...).
+Remember we have 400+ students and everybody have their own constraints and personal circumstances (family, work, travel, holidays, etc.). It would be TOTALLY impossible for us to cater for each individual circumstances, we just do not have the bandwidth (and we educators also have our lives...).
 
-What you can do is to **apply for SPC early in advance**, and provide your evidence for such request. For final assessments after the semester, if granted, you will be allowed to take a new assessment in the **DEFERRED ASSESSMENT** period. For Semester 2, it is often early December. Please check the [Academic Calendar][RMIT-CALENDAR] of the year to know when exactly those assessment will be running. It is good you are thinking ahead on this, **good luck!**
+What you could consider for the final assessment is to **apply for SPC early in advance**, and provide your evidence for such request. If granted, you will be allowed to take a new assessment in the **DEFERRED ASSESSMENT** period, which is usually in early December (after official release of grades). Please check the [Academic Calendar][RMIT-CALENDAR] of the year to know when exactly those assessment will be running. It is good you are thinking ahead on this, **good luck!**
 
 ## I would like to challenge the final assessment (review period after grade release); can I do it?
 
