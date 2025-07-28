@@ -588,7 +588,7 @@ Students are expected to **make themselves available for all their assessments**
 
 Therefore, we will **_not_** prepare and conduct assessments via video calls or online; or also individual one-to-one assessments.
 
-Remember we have 400+ students and everybody have their own constraints and personal circumstances (family, work, travel, holidays, etc.). It would be TOTALLY impossible for us to cater for each individual circumstances, we just do not have the bandwidth (and we educators also have our lives...).
+Remember we have 400+ students and everybody have their own constraints and personal circumstances (family, work, travel, holidays, etc.). It would be TOTALLY impossible for us to cater for each individual circumstances (if we do with one, we must do it with everyone too who requests a special case), we just do not have the bandwidth (and we educators also have our lives too!).
 
 ## I would like to challenge the final assessment (review period after grade release); can I do it?
 
