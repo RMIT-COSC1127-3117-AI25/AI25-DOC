@@ -55,9 +55,10 @@ For specific FAQ on programming projects see [here](FAQ-PROJECTS.md).
   - [Why is THE/EC are not fully done on paper or done online at home?](#why-is-theec-are-not-fully-done-on-paper-or-done-online-at-home)
   - [In a code assignment/project, how do I make sure I do not go against academic integrity?](#in-a-code-assignmentproject-how-do-i-make-sure-i-do-not-go-against-academic-integrity)
   - [Why did I get 57 in the assignment/project if it is just 5% of the course?](#why-did-i-get-57-in-the-assignmentproject-if-it-is-just-5-of-the-course)
-  - [How do I prepare for the final in-person assessment (THE/EC)?](#how-do-i-prepare-for-the-final-in-person-assessment-theec)
-  - [I will not be around for an in-person assessment, can I take it online or before?](#i-will-not-be-around-for-an-in-person-assessment-can-i-take-it-online-or-before)
+  - [How do I prepare for the final in-person assessment?](#how-do-i-prepare-for-the-final-in-person-assessment)
+  - [I will not be around for an in-person assessment, can I take it online or before/after?](#i-will-not-be-around-for-an-in-person-assessment-can-i-take-it-online-or-beforeafter)
   - [I would like to challenge the final assessment (review period after grade release); can I do it?](#i-would-like-to-challenge-the-final-assessment-review-period-after-grade-release-can-i-do-it)
+  - [When is the SPC for the final assessment?](#when-is-the-spc-for-the-final-assessment)
   
 # WHY THIS FAQ?
 
@@ -536,7 +537,7 @@ To get the final contribution to your course, you then need to _multiply the mar
 
 BTW, this is just one way of doing it and I am not claiming it must be done like that. This is not really so important in the end, and any student should be able to go from one system (out of 100 or out of the weight contribution) with ease.
 
-## How do I prepare for the final in-person assessment (THE/EC)?
+## How do I prepare for the final in-person assessment?
 
 Final assessments are often summative, in that they try to assess the knowledge and skill levels _at the end_ of the learning process and as a whole. While one may have superficial or not yet fully connected knowledge half way the semester, one would expect a more cohesive and deeper level at the end of the course.
 
@@ -581,15 +582,13 @@ You will recognise that several tips overlap with what was discussed above and s
 
 All the best & hope this helps!!
 
-## I will not be around for an in-person assessment, can I take it online or before?
+## I will not be around for an in-person assessment, can I take it online or before/after?
 
 Students are expected to **make themselves available for all their assessments**, including in-person final ones between Weeks 13-16. This is normal and not just an RMIT thing, all universities have final assessment after the teaching weeks. 🙂
 
 Therefore, we will **_not_** prepare and conduct assessments via video calls or online; or also individual one-to-one assessments.
 
 Remember we have 400+ students and everybody have their own constraints and personal circumstances (family, work, travel, holidays, etc.). It would be TOTALLY impossible for us to cater for each individual circumstances, we just do not have the bandwidth (and we educators also have our lives...).
-
-What you could consider for the final assessment is to **apply for SPC early in advance**, and provide your evidence for such request. If granted, you will be allowed to take a new assessment in the **DEFERRED ASSESSMENT** period, which is usually in early December (after official release of grades). Please check the [Academic Calendar][RMIT-CALENDAR] of the year to know when exactly those assessment will be running. It is good you are thinking ahead on this, **good luck!**
 
 ## I would like to challenge the final assessment (review period after grade release); can I do it?
 
@@ -606,6 +605,11 @@ Please send your review request in by filling and emailing the  **Review of Asse
 
 > [!IMPORTANT]
 > When a review is performed upon request, the final mark can go up, stay the same, or go down.
+
+## When is the SPC for the final assessment?
+
+SPC for Weeks 13+ assessments will be done during the **deferred assessment period**, which is usually in early December (after official release of grades). Please check the [Academic Calendar][RMIT-CALENDAR] of the year to know when exactly those assessment will be running. It is good you are thinking ahead on this, **good luck!**
+
 
 [AIMA-BOOK]: https://aima.cs.berkeley.edu/global-index.html
 [FORUM-FAQ]: https://docs.google.com/document/d/1HdrY91LIPRZOEni_jsCwmN8Oc8MrUzljen6qHzbtQeU/edit?usp=sharing
