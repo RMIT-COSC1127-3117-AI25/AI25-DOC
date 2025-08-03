@@ -61,7 +61,21 @@ As any FAQ page, this page is always "under construction". As we realize that so
 - [Project 0](#project-0)
   - [Do we have to handle edge cases? For example, for the `shopSmart` function, what should we do if a fruit is _not_ present in one of the shops?](#do-we-have-to-handle-edge-cases-for-example-for-the-shopsmart-function-what-should-we-do-if-a-fruit-is-not-present-in-one-of-the-shops)
   - [Does the reference to 'pounds' in buyLotsOfFruit.py refer to weight (lb) or cost (£)?](#does-the-reference-to-pounds-in-buylotsoffruitpy-refer-to-weight-lb-or-cost-)
-  
+- [Project 1](#project-1)
+  - [Do we need to do all the "`*** YOUR CODE HERE ***`" method?](#do-we-need-to-do-all-the--your-code-here--method)
+  - [Can I import standard libraries?](#can-i-import-standard-libraries)
+  - [What actions should I return in the search algorithms?](#what-actions-should-i-return-in-the-search-algorithms)
+  - [How can I represent a plan with no actions?](#how-can-i-represent-a-plan-with-no-actions)
+  - [What counts as an expansion? I am getting too many expansions....](#what-counts-as-an-expansion-i-am-getting-too-many-expansions)
+  - [My solution works manually for `tinaMaze` but the authograder fails. The state format used in the autogarders tests are different from the Pacman game's in `tinaMaze`. What happens here?](#my-solution-works-manually-for-tinamaze-but-the-authograder-fails-the-state-format-used-in-the-autogarders-tests-are-different-from-the-pacman-games-in-tinamaze-what-happens-here)
+  - [In Q7, can I take a heuristic from elsewhere (e.g., Google) and implement it?](#in-q7-can-i-take-a-heuristic-from-elsewhere-eg-google-and-implement-it)
+  - [In Q7, what timeout will be used? How do I know what timeout should I use?](#in-q7-what-timeout-will-be-used-how-do-i-know-what-timeout-should-i-use)
+  - [Are we allowed to use `mazeDistance` (or a modified version) when calculating our heuristic?](#are-we-allowed-to-use-mazedistance-or-a-modified-version-when-calculating-our-heuristic)
+  - [Can we create a new BFS for the part 5? My implementation doesn't fit with my new state representation!](#can-we-create-a-new-bfs-for-the-part-5-my-implementation-doesnt-fit-with-my-new-state-representation)
+  - [In the feedback autograder, what does `expanded_states` means?](#in-the-feedback-autograder-what-does-expanded_states-means)
+  - [For Q9 cycle checking, should we check only a few levels, or all the way up to the root node?](#for-q9-cycle-checking-should-we-check-only-a-few-levels-or-all-the-way-up-to-the-root-node)
+  - [In Q6 or Q7 I am getting `FAIL: inconsistent heuristic path` for a test case, what does this mean?](#in-q6-or-q7-i-am-getting-fail-inconsistent-heuristic-path-for-a-test-case-what-does-this-mean)
+
 
 -------------------------
 
@@ -75,7 +89,7 @@ Check the [answer to this key question here](../AI23-DOC.git/CODE-INTEGRITY.md)
 
 We will not fix any submission and it is your responsibility to do it correctly.
 
-However, the nice thing about git-based projects/assessments is that we can rely on commits. So, if you have submitted your tag incorrectly (did not tag it at all, tagged with different name or different capital letters), then please fix your submission by tagging the specific commit you want me to (re)mark and let us know you did so in the corresponding PR of your repo (no email, no forum). 
+However, the nice thing about git-based projects/assessments is that we can rely on commits. So, if you have submitted your tag incorrectly (did not tag it at all, tagged with different name or different capital letters), then please fix your submission by tagging the specific commit you want me to (re)mark and let us know you did so in the corresponding PR of your repo (no email, no forum).
 
 Note we will of course use the timestamp of the commit itself, not of when it was tagged. This means that if the commit was done before the deadline, then all good!! Isn't this cool?
 
@@ -230,15 +244,15 @@ No, a _tag_ is a _git concept_, whereas a `Release` is something about GitHub, b
 A tag is a _pointer_ to a specific commit, that's all, you basically give a name to a specific commit. This is what we use to mark the commit that is meant to be submitted for marking.
 
 ## My project solution is contained in multiple commits, which do I tag?
-The last one. 
+The last one.
 I think the confusion here is because there are two potentially different things you can mean with the same word commit.
 You are thinking of commit as a set of changes to files - so the commit itself is only made up of the edits you have made since the last commit.
 We are thinking of a commit as a snapshot of the entire repository at a point in time, which shows exactly what all the files looked like in the repo in their entirety.
 
-A commit is both things! (I will spare you links to documentation to prove it). 
+A commit is both things! (I will spare you links to documentation to prove it).
 As a result, when you commit your final changes to the assignment (even if it is just changing your name in a readme file), and then you tag that commit, we can see all of the files that exist in the repo after you have completed everything. No need to 'recommit' things which you have done before.
 
-To make you comfortable with this, browse around the GitHub page for your project repo. When you make a tag, you should be able to see a link to it, and even download the repo at that tag as a zip file. If you unzip it, you will see the entire repo. 
+To make you comfortable with this, browse around the GitHub page for your project repo. When you make a tag, you should be able to see a link to it, and even download the repo at that tag as a zip file. If you unzip it, you will see the entire repo.
 
 ## Cannot clone or push to GitHub with my password credentials?
 
@@ -306,7 +320,7 @@ The GitHub username you selected is in the name of all of the projects you clone
 
 # I can't open a project in VSCode when clicking the button from GitHub
 
-This is often due to a space in a file path on your machine (generally for Windows users), but might have other causes. This button relies on a VSCode extension that is deprecated, so may not be reliable. We strongly encourage all students to clone the repository locally on their machine, and work from there. 
+This is often due to a space in a file path on your machine (generally for Windows users), but might have other causes. This button relies on a VSCode extension that is deprecated, so may not be reliable. We strongly encourage all students to clone the repository locally on their machine, and work from there.
 
 ------------------------------
 # PYTHON
@@ -600,7 +614,7 @@ In general, before spending a lot of time doing experimental analysis, look at y
 
 ## How can I debug my system?
 
-While you may want to do some print outs here and there, eventually using a debugger is the way to go. Check [this video](https://www.youtube.com/watch?v=w8QHoVam1-I) for a quick guide to debugging python in VSCode (you can do similar things in PyCharm or other editors as well). This is far more flexible and reliable than print messages. :-) 
+While you may want to do some print outs here and there, eventually using a debugger is the way to go. Check [this video](https://www.youtube.com/watch?v=w8QHoVam1-I) for a quick guide to debugging python in VSCode (you can do similar things in PyCharm or other editors as well). This is far more flexible and reliable than print messages. :-)
 
 To make life easy for yourself, you will want to create a debugging configuration in VSCode which runs the autograder file, regardless of which file you have open. You will also want to pass in the arguments `-q q1` to run only the first question (or whichever you are interested in). You can accomplish this by adding the following text to the `launch.json` file which stores all the debug configurations:
 ```json
@@ -719,3 +733,154 @@ One could import the function from Q2 and use that instead, but the function sig
 ## Does the reference to 'pounds' in buyLotsOfFruit.py refer to weight (lb) or cost (£)?
 The weight; this project was made in the US so uses US terminology, not UK.
 
+-----------------
+# Project 1
+
+## Do we need to do all the "`*** YOUR CODE HERE ***`" method?
+
+Not really. Just those parts that are relevant for the questions in the assessment.
+
+Some parts are extension that may not be used in a particular edition of the course. For example, in the 2022 edition you don't have to complete `capsuleProblemHeuristic`.
+
+## Can I import standard libraries?
+
+Yes, as long as they are reasonable and do not contradict the spec. For example, importing `sys` to access `sys.maxsize` would be totally fine. Do not import libraries, though, that you wouldn't expect any Python install to include. Or do not use libraries or classes that go against the spec, for example by not using the data structures provided to you in `util.py`!
+
+## What actions should I return in the search algorithms?
+
+Check the actions in this class in `games.py`
+
+```python
+class Directions:
+  NORTH = 'North'
+  SOUTH = 'South'
+  EAST = 'East'
+  WEST = 'West'
+  STOP = 'Stop'
+```
+
+## How can I represent a plan with no actions?
+
+Either with an empty list or with a list with just action `Stop`.
+
+## What counts as an expansion? I am getting too many expansions....
+
+Basically, every time you call `problem.getSuccessors(.)`.
+
+(It is not popping out from the queue, as we don't have access to that part of your code!)
+
+So be careful not using that function for more than what is needed. When debugging, be careful, you may introduce [Heisenbug](https://en.wikipedia.org/wiki/Heisenbug)! :-)
+
+One can implement the various search algorithms (e.g., DFS) doing one call to `getSuccessor()` per loop/node, as in the pseudo-code (e.g., book or slides).
+
+## My solution works manually for `tinaMaze` but the authograder fails. The state format used in the autogarders tests are different from the Pacman game's in `tinaMaze`. What happens here?
+
+Indeed, the test cases often have atomic states instead of `(x,y)` coordinates, but this should not affect your code at all. From the algorithms perspective, a state is (just) a "state", regardless of the representation. The autograder often checks corner cases which are not tested by the standard
+mazes, which may be why you see it failing (despite your manual cases working).
+
+## In Q7, can I take a heuristic from elsewhere (e.g., Google) and implement it?
+
+The objective of the exercise is NOT to program in Python a solution that somebody else has invented/created. The fact is that we are not testing Python here or even coding skills per se alone. We are learning how to come up/create good heuristics ourselves, by thinking about the domain at hand and the way search works.
+
+What we are interested in assessing for this question is your ability to understand what heuristics are and design them yourself. As a result, while searching online for heuristics **in general** would be fine (but we doubt useful here if you read the book), searching for a heuristic, even at a conceptual level, for this particular problem is definitively **not** OK.
+
+Think about what some relaxations of the problem are, and how you might design a heuristic from those. There are a number of quite simple heuristics that do quite well, as well as some more sophisticated ones.
+
+## In Q7, what timeout will be used? How do I know what timeout should I use?
+
+The key point to understand here is *why do we use heuristics after all?* We use heuristics to guide the search---informed search---so that it runs _faster_.
+
+OK, but _faster than what?_ Well, at least faster than if we do not use a heuristic, right? So, we can set the heuristic to just be `0` (by just doing `return 0` at the top of function `foodHeuristic`) and see how much it would take by running:
+
+```shell
+$ python pacman.py -l trickySearch -p AStarFoodSearchAgent -q
+
+Path found with total cost of 60 in 1.5 seconds
+Search nodes expanded: 16688
+Pacman emerges victorious! Score: 570
+Average Score: 570.0
+Scores:        570.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+```
+
+So it takes 1.9 seconds (in the cluster machines) when running the agent with an "empty" heuristic. What happens when we plugged our heuristic?
+
+
+```shell
+$ python pacman.py -l trickySearch -p AStarFoodSearchAgent -q
+
+Path found with total cost of 60 in 0.3 seconds
+Search nodes expanded: 255
+Pacman emerges victorious! Score: 570
+Average Score: 570.0
+Scores:        570.0
+Win Rate:      1/1 (1.00)
+Record:        Win
+```
+
+As one can see the time was cut down to just 0.2 seconds (20% of the time when no heuristic is used!) and the number of nodes expanded to just 255. Note this is a very powerful heuristic (it expanded only 255 nodes!), and we are not expecting this to get full marks. There are still very fast implementations taking 0.5secs and expanding ~1500 nodes, way below the 7000 mark!
+
+So, the question is not just whether the heuristic reduces the number of expansions, but also, ultimately, the search time.
+
+When solving this question consider:
+
+1. How good is your A* implementation?
+2. How good is your heuristic?
+
+Basically you are after a good enough A* implementation and a heuristic that _significantly improves_ A* when used without heuristic.
+
+Remember that a heuristic is useful, only if gives benefit over not using it; otherwise what is the point of it? If your heuristic expands very few nodes, BUT it takes a lot of time to compute, then the heuristic will not be beneficial after all. Consider, what would be the very best heuristic you can use (but not useful)? ;-)
+
+> [!NOTE]
+The performance runs were done in the cluster machines. Your laptop may be faster. In my laptop, the above runs take 1 and 0.2 seconds, resp. To have an estimation how that compares with your machine, check [this question](https://github.com/RMIT-COSC1127-1125-AI24/AI24-DOC/blob/main/FAQ-PROJECTS.md#how-do-i-compare-the-speed-of-my-desktoplaptop-with-that-from-the-cluster-being-used-for-marking).
+
+Finally, take note of the comment in the source code:
+
+```
+If you want to *store* information to be reused in other calls to the
+    heuristic, there is a dictionary called problem.heuristicInfo that you can
+    use. For example, if you only want to count the walls once and store that
+    value, try: problem.heuristicInfo['wallCount'] = problem.walls.count()
+    Subsequent calls to this heuristic can access
+    problem.heuristicInfo['wallCount']
+```
+
+This could be a deal breaker and could move your heuristic performance from 30secs to 1sec.
+
+## Are we allowed to use `mazeDistance` (or a modified version) when calculating our heuristic?
+
+Yes, you certainly can, which is why it says the following in the comments:
+
+> This might be a useful helper function for your ApproximateSearchAgent.
+
+Be careful though - it is easy to imagine that if you call a function to do something, it is 'free', but if you look at the code in that function, you will soon realise that this function may take a lot of time itself. :-)
+
+## Can we create a new BFS for the part 5? My implementation doesn't fit with my new state representation!
+
+This is a good question. The answer is _no_ - you cannot and should not need to create a new BFS.
+
+Search algorithms should be entirely generic and only interact through the interface defined at the top of `search.py` by the generic `SearchProblem` class.
+
+Remember the key tasks in designing a search-based solution:
+
+![sas](img/p1-search_repr.png)
+
+This issue is about the first task: _representation_.
+
+## In the feedback autograder, what does `expanded_states` means?
+
+Basically, the number of times you have done expansion of nodes, that is, number of calls to `getSuccessors()`` method. Makes sense? :-)
+
+## For Q9 cycle checking, should we check only a few levels, or all the way up to the root node?
+
+While the book discusses both options, for project 1 you should implement a cycle check that goes all the way up to the initial state.
+
+## In Q6 or Q7 I am getting `FAIL: inconsistent heuristic path` for a test case, what does this mean?
+
+You have an inconsistent heuristic; i.e. it either:
+
+- overestimates the true cost, or
+- it overestimates the difference between two nodes. (i.e. X and Y are neighbours, heuristic cost of X is 10, Y is 13, and the cost from X to Y is 2).
+
+You will need to try to figure out why your heuristic is inconsistent, and fix it, or use an entirely different heuristic.
