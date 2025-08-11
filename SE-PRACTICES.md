@@ -37,6 +37,7 @@ Poor SE and version control practices can have a significant impact in the final
 Here are some examples of fantastic Git history and management:
 
  <p align="center"> 
+    <img src="img/great-git_repo_commits-00.png">
     <img src="img/great-git_repo_commits-01.png">
     <img src="img/great-git_repo_commits-02.png">
  </p>
