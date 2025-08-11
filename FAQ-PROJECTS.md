@@ -64,6 +64,9 @@ As any FAQ page, this page is always "under construction". As we realize that so
 - [Project 1](#project-1)
   - [Do we need to do all the "`*** YOUR CODE HERE ***`" method?](#do-we-need-to-do-all-the--your-code-here--method)
   - [Can I import standard libraries?](#can-i-import-standard-libraries)
+  - [Do we need to use `PriorityQueueWithFunction`, or can we use `PriorityQueue` with a helper function that determines the priority?](#do-we-need-to-use-priorityqueuewithfunction-or-can-we-use-priorityqueue-with-a-helper-function-that-determines-the-priority)
+  - [For Q1, Q3 and Q4, do they have to use a priority queue?](#for-q1-q3-and-q4-do-they-have-to-use-a-priority-queue)
+  - [Do I need to use the data structure in `util.py` (e.g., `PriorityQueue`)?](#do-i-need-to-use-the-data-structure-in-utilpy-eg-priorityqueue)
   - [What actions should I return in the search algorithms?](#what-actions-should-i-return-in-the-search-algorithms)
   - [How can I represent a plan with no actions?](#how-can-i-represent-a-plan-with-no-actions)
   - [What counts as an expansion? I am getting too many expansions....](#what-counts-as-an-expansion-i-am-getting-too-many-expansions)
@@ -744,7 +747,19 @@ Some parts are extension that may not be used in a particular edition of the cou
 
 ## Can I import standard libraries?
 
-Yes, as long as they are reasonable and do not contradict the spec. For example, importing `sys` to access `sys.maxsize` would be totally fine. Do not import libraries, though, that you wouldn't expect any Python install to include. Or do not use libraries or classes that go against the spec, for example by not using the data structures provided to you in `util.py`!
+Yes, as long as they are reasonable and do not contradict the spec. For example, importing `sys` to access `sys.maxsize` would be totally fine. Do not import libraries, though, that you wouldn't expect any Python install to include.
+
+## Do we need to use `PriorityQueueWithFunction`, or can we use `PriorityQueue` with a helper function that determines the priority?
+
+You don't have to use `PriorityQueueWithFunction` specifically for any question, if you would rather use `PriorityQueue` that's perfectly fine.
+
+## For Q1, Q3 and Q4, do they have to use a priority queue?
+
+As you wish, as long as the behaviour of the pseudo code that is to be implemented is matched.  Imagine I said that I was going to use a priority queue where the priority of each item was equal to the priority of the previous item added + 1. Is this equivalent to another data structure? If I can't tell the difference in the pen and paper behaviour of these two data structures, then you can use either.
+
+## Do I need to use the data structure in `util.py` (e.g., `PriorityQueue`)?
+
+Not really. You can if you want, but you can implement yours, as long as they are included in the only files you are allowed to modify.
 
 ## What actions should I return in the search algorithms?
 
