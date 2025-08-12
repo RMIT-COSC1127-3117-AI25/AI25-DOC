@@ -34,6 +34,8 @@ In addition, if working in groups for a team-based project:
 
 Poor SE and version control practices can have a significant impact in the final mark of an assessment. For example, a single commit with all the solution will attract zero marks overall, even if the solution does perform perfectly.
 
+So, you may ask _what is the average commits the assignment is expected to have per question?_ There is no "magic" number and is not the point to overfit a number no matter what. We will be very reasonable in judging what good process is and we expect you to also have a good judgment of what good development is and what is not, which does not mean to reach a pre-defined number. The number of commits is a proxy, but it is not the end of the story. You can have many commits and still have very poor development. But if the commit number is very low, then it may signal an issue. So, you are also to judge how much work a question involves. If you work on a question for hours and there is only a few commits, then something may be wrong. But, again, the aim of quality development is NOT to overfit a special number of commits.
+
 ## Sample of great Git management
 
 Here are some examples of very good Git history and management:
