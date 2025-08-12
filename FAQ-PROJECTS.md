@@ -49,7 +49,7 @@ As any FAQ page, this page is always "under construction". As we realize that so
   - [Can't fit the Pacman window in my screen, can I resize it?](#cant-fit-the-pacman-window-in-my-screen-can-i-resize-it)
   - [Cannot compile Metric-FF in MacOS](#cannot-compile-metric-ff-in-macos)
   - [I get `ModuleNotFoundError: No module named 'func_timeout'`, why?](#i-get-modulenotfounderror-no-module-named-func_timeout-why)
-  - [How can I fix `ModuleNotFoundError: No module named 'tkinter'` or `ModuleNotFoundError: No module named '_tkinter'`?](#how-can-i-fix-modulenotfounderror-no-module-named-tkinter-ormodulenotfounderror-no-module-named-_tkinter)
+  - [How can I fix `ModuleNotFoundError: No module named 'tkinter'` or `ModuleNotFoundError: No module named '_tkinter'`?](#how-can-i-fix-modulenotfounderror-no-module-named-tkinter-or-modulenotfounderror-no-module-named-_tkinter)
   - [One of the many tests is failing, how can I just run one question or even one particular test only?](#one-of-the-many-tests-is-failing-how-can-i-just-run-one-question-or-even-one-particular-test-only)
   - [My X algorithm (e.g. A\* search) works but it takes too long, what's the best way to work out why it's taking so long/work out how to optimise it?](#my-x-algorithm-eg-a-search-works-but-it-takes-too-long-whats-the-best-way-to-work-out-why-its-taking-so-longwork-out-how-to-optimise-it)
   - [How can I debug my system?](#how-can-i-debug-my-system)
@@ -605,7 +605,7 @@ $ pip install pytz
 
 While [`tkinter`](https://docs.python.org/3/library/tkinter.html) is part of the Python standard library, not all Python installations include the necessary dependencies. Depending on your Python installation, you may encounter errors like these. More details are available in [this StackOverflow thread](https://stackoverflow.com/questions/76105218/why-does-tkinter-or-turtle-seem-to-be-missing-or-broken-shouldnt-it-be-part), including resolution steps for different types of installation.
 
-If you installed Python using [Homebrew](https://brew.sh) on MacOS (e.g. [`python@3.12`](https://formulae.brew.sh/formula/python@3.12#default)) installing the `python-tk` package that corresponds to your Python version (e.g. [`python-tk@3.12`](https://formulae.brew.sh/formula/python-tk@3.12#default) should resolve the issue. Refer to the StackOverflow thread for other installations. 
+If you installed Python using [Homebrew](https://brew.sh) on MacOS (e.g. [`python@3.12`](https://formulae.brew.sh/formula/python@3.12#default)) installing the `python-tk` package that corresponds to your Python version (e.g. [`python-tk@3.12`](https://formulae.brew.sh/formula/python-tk@3.12#default)) should resolve the issue. Refer to the StackOverflow thread for other installations. 
 
 ## One of the many tests is failing, how can I just run one question or even one particular test only?
 
