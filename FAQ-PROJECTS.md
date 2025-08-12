@@ -605,7 +605,7 @@ $ pip install pytz
 
 While [`tkinter`](https://docs.python.org/3/library/tkinter.html) is part of the Python standard library, not all Python installations include the necessary dependencies. Depending on your Python installation, you may encounter errors like these. More details are available in [this StackOverflow thread](https://stackoverflow.com/questions/76105218/why-does-tkinter-or-turtle-seem-to-be-missing-or-broken-shouldnt-it-be-part), including resolution steps for different types of installation.
 
-If you installed Python using [Homebrew](https://brew.sh) on MacOS (e.g. [`python@3.12`](https://formulae.brew.sh/formula/python@3.12#default)) installing the `python-tk` package that corresponds to your Python version (e.g. [`python-tk@3.12`](https://formulae.brew.sh/formula/python-tk@3.12#default)) should resolve the issue. Refer to the StackOverflow thread for other installations. 
+If you installed Python using [Homebrew](https://brew.sh) on MacOS (e.g. [`python@3.12`](https://formulae.brew.sh/formula/python@3.12#default)) installing the `python-tk` package that corresponds to your Python version (e.g. [`python-tk@3.12`](https://formulae.brew.sh/formula/python-tk@3.12#default)) should resolve the issue. Refer to the StackOverflow thread for other installations. In all cases, installing Python from [Python.org](https://www.python.org) will circumvent this issue.
 
 ## One of the many tests is failing, how can I just run one question or even one particular test only?
 
