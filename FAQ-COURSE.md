@@ -59,7 +59,7 @@ For specific FAQ on programming projects see [here](FAQ-PROJECTS.md).
   - [I will not be around for an in-person assessment, can I take it online or before/after?](#i-will-not-be-around-for-an-in-person-assessment-can-i-take-it-online-or-beforeafter)
   - [I would like to challenge the final assessment (review period after grade release); can I do it?](#i-would-like-to-challenge-the-final-assessment-review-period-after-grade-release-can-i-do-it)
   - [When is the SPC for the final assessment?](#when-is-the-spc-for-the-final-assessment)
-  
+
 # WHY THIS FAQ?
 
 This question is already answered in the [FAQ](FAQ-COURSE.md). 😉
@@ -348,7 +348,7 @@ Check the next question...
 
 ## How important is attending in person?
 
-Great question! 👍 I would hope that my "live" lectures are better quality than watching a recording, ha! 😃 Is it the same to watch a football game on TV or in the stadium? ⚽ 
+Great question! 👍 I would hope that my "live" lectures are better quality than watching a recording, ha! 😃 Is it the same to watch a football game on TV or in the stadium? ⚽
 
 First, except for the in-person assessments, there are no actual assessments in class. 👌  Uni is not school. There is no direct penalty for not attending lectorials, except when there are assessments (in which case not attending attracts zero marks and warrants no re-submission of the component!).
 
@@ -361,15 +361,15 @@ However, I am convinced that **attending in person has many benefits over the vi
 5. Watching **recordings** often means pausing and rewinding, which can feel efficient but **adds cognitive overhead**. Live lectures unfold at a natural pace that supports understanding over time.
 6. Finally, by "being there" you make sure you **"get what it is"** and minimizes risks. Recordings can fail, or can be of not great quality.
 
-Being a uni course, we expect learners, students, to be **more autonomous** on your decision (unlike school students), and we understand everyone's circumstances are different. It is ultimately _your_ choice whether to be there or not. But, overall, the recording is, in my view, a second rated version; OK for some, but not the "quality" product. 😉 
+Being a uni course, we expect learners, students, to be **more autonomous** on your decision (unlike school students), and we understand everyone's circumstances are different. It is ultimately _your_ choice whether to be there or not. But, overall, the recording is, in my view, a second rated version; OK for some, but not the "quality" product. 😉
 
-**Maybe this is my recommendation.** Two years ago, in the second to last lecture, a student came after the lecture and said to me: 
+**Maybe this is my recommendation.** Two years ago, in the second to last lecture, a student came after the lecture and said to me:
 
 > I didn't realise until now that the live lectures where so much better than watching the recordings, so much better. I have been watching all the recordings after the class, but this is so much better and fun, I really enjoyed but I feel bad I didn't come since the start.
 
 This actually happened! I thanked the student for his words; of course I felt good that he liked it, and valued his positive feedback. Also was good that he managed to get two lectures at least (he came back for the final one). However, I felt sad that a good motivated student like him has lost an opportunity... 😢 Opportunities are to be taken there, when they are.
 
-So, **maybe do the effort and come for the first ones and then make a decision?** The room is really beautiful eh... 😉 
+So, **maybe do the effort and come for the first ones and then make a decision?** The room is really beautiful eh... 😉
 
 Hope this provides some context for you to make a better decision, but ultimately it is yours.. 🙏
 
@@ -466,9 +466,9 @@ Please note that late submissions are only allowed to assignments and projects, 
 
 ## Can I get an extension for the assessment?
 
-**Yes!, but not only in some cases...**  As per policy, extensions are reserved to _extreme cases that are totally outside the control of the student_, such as health issues, bereavement, being the victim of a crime or other trauma; severe disruption to living arrangements or financial hardship.
+**Yes!, but not only in some cases...**  As per policy, extensions are reserved to _extreme cases that are totally outside the control of the student_, such as health issues, bereavement, being the victim of a crime or other trauma; severe disruption to living arrangements or financial hardship. Standard external commitments (e.g., work, other courses, travel, etc.) do not warrant extensions as they should have been considered in advanced and planned accordingly (every student has its own commitmemnts outside the course, of course).
 
-The dates of all assessments in this course are given well in advance. Plan early your work around your commitments and workload, start on the assessments _early_, and submit them substantially before the deadline, preferably at least one or two days before. Working and submitting close to the deadline could be risky and you may fail to submit on time, for example due to loss of Internet, laptop problems, server delays, heavy workload, late enrolment, external commitments, etc.
+The dates of all assessments in this course are given well in advance. Note also that when an assessment has a 2 week window, it does not mean that it requires 2 weeks of full time work: it is a flexible window so you can plan your commitment to it within that timeframe. So, plan early your work around your commitments and workload, start on the assessments _early_, and submit them substantially before the deadline, preferably at least one or two days before. Working and submitting close to the deadline could be risky and you may fail to submit on time, for example due to loss of Internet, laptop problems, server delays, heavy workload, late enrolment, external commitments, etc.
 
 However, if you know you will be unable to complete an assignment due to illness or personal circumstances outside of your control, please contact your lecturer immediately for special consideration and submit the [Application for Extension of Time for Submission of Assessable Work Form](https://www.rmit.edu.au/content/dam/rmit/au/en/students/documents/my-course/assessment-results/application-extension.pdf):
 
@@ -480,7 +480,13 @@ However, if you know you will be unable to complete an assignment due to illness
 
 Each request will be considered on an individual basis. If the request is approved, the deadline for the assignment will be extended. If the request is denied and the assessment missed, you will unfortunately receive a zero for that assessment. Remember though that it is always possible to submit late.
 
-Note that in many cases (e.g., long extensions), though, I cannot grant unilateral special considerations and you may need to go through RMIT formal process for [Special Consideration (SPC)][RMIT-SPC]. Because of the nature of many project assessments and the quick release of results, any non short term SPC will probably be in the form of an **Equivalent Assessment**, that is, another _ assessment later on that will assess the same content but possibly in a different way. In most cases this will involve a pre-arranged in-person 1-2hrs closed-book assessment with the instructor (e.g., a set of exercises to complete).
+> [!IMPORTANT]
+> The instructor can only handle simple "obvious" requests that are less than 7 days and that they can be assessed quickly as per evidence (e.g., a medical certificate indicating length of impact). Longer or more complex requests that require carefully assessing the evidence and situation, cannot be handled by the instructor and may need to go through RMIT formal process for [Special Consideration (SPC)][RMIT-SPC].
+
+
+> [!IMPORTANT] 
+> Because of the nature of many project assessments and the quick release of results, any non short term SPC will probably be in the form of an **Equivalent Assessment**, that is, another _ assessment later on that will assess the same content but possibly in a different way. In most cases this will involve a pre-arranged in-person 1-2hrs closed-book assessment with the instructor (e.g., a set of exercises to complete).
+
 
 > [!IMPORTANT]
 > If your application relates to a request for an extension of time for submittable work (such as assignments, projects, essays, etc.) to either the instructor or SPC team, it is expected that you will continue to progress that work and submit it as soon as possible while your application is under consideration. Do not just wait idle until the notification arrives. Your are expected to continue working and submit the assessment as soon as you could, while your application is being assessed.
