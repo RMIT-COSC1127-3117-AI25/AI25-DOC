@@ -27,7 +27,7 @@ As any FAQ page, this page is always "under construction". As we realize that so
   - [Commits not correctly associated to my GitHub account, why?](#commits-not-correctly-associated-to-my-github-account-why)
   - [I made a bad commit and pushed to repo, how can I undo it?](#i-made-a-bad-commit-and-pushed-to-repo-how-can-i-undo-it)
   - [How can I check which GH username I am using for GitHub Classroom in the course?](#how-can-i-check-which-gh-username-i-am-using-for-github-classroom-in-the-course)
-- [I can't open a project in VSCode when clicking the button from GitHub](#i-cant-open-a-project-in-vscode-when-clicking-the-button-from-github)
+  - [I can't open a project in VSCode when clicking the button from GitHub](#i-cant-open-a-project-in-vscode-when-clicking-the-button-from-github)
 - [PYTHON](#python)
   - [What version of Python should I use?](#what-version-of-python-should-i-use)
   - [How can I install project dependencies?](#how-can-i-install-project-dependencies)
@@ -58,11 +58,10 @@ As any FAQ page, this page is always "under construction". As we realize that so
   - [Should we remove this line `util.raiseNotDefined()` before starting our code or not? What does it do?](#should-we-remove-this-line-utilraisenotdefined-before-starting-our-code-or-not-what-does-it-do)
   - [My editor shows an error trying to import pacman module](#my-editor-shows-an-error-trying-to-import-pacman-module)
   - [The autograder says `FAIL: Exception raised ...` but I am not sure which test case failed](#the-autograder-says-fail-exception-raised--but-i-am-not-sure-which-test-case-failed)
-  - [](#)
 - [Project 0](#project-0)
   - [Do we have to handle edge cases? For example, for the `shopSmart` function, what should we do if a fruit is _not_ present in one of the shops?](#do-we-have-to-handle-edge-cases-for-example-for-the-shopsmart-function-what-should-we-do-if-a-fruit-is-not-present-in-one-of-the-shops)
   - [Does the reference to 'pounds' in buyLotsOfFruit.py refer to weight (lb) or cost (£)?](#does-the-reference-to-pounds-in-buylotsoffruitpy-refer-to-weight-lb-or-cost-)
-- [Project 1](#project-1)
+- [Project 1: Search (Assessment)](#project-1-search-assessment)
   - [Do we need to do all the "`*** YOUR CODE HERE ***`" method?](#do-we-need-to-do-all-the--your-code-here--method)
   - [Can I import standard libraries?](#can-i-import-standard-libraries)
   - [Do we need to use `PriorityQueueWithFunction`, or can we use `PriorityQueue` with a helper function that determines the priority?](#do-we-need-to-use-priorityqueuewithfunction-or-can-we-use-priorityqueue-with-a-helper-function-that-determines-the-priority)
@@ -322,7 +321,7 @@ Read more about `git revert` [here](https://www.atlassian.com/git/tutorials/undo
 
 The GitHub username you selected is in the name of all of the projects you clone. (e.g. if the repo is called `project-1-search-<username>`, then you used GH `username` account). This is the account with which you should make commits with so we can link them to you through classrooms. You must then have your GIT configuration to commit with such user so that your commits are counted as yours. See [this question](#i-have-committed-to-the-remote-repo-but-i-am-not-listed-as-a-contributor-why) as well.
 
-# I can't open a project in VSCode when clicking the button from GitHub
+## I can't open a project in VSCode when clicking the button from GitHub
 
 This is often due to a space in a file path on your machine (generally for Windows users), but might have other causes. This button relies on a VSCode extension that is deprecated, so may not be reliable. We strongly encourage all students to clone the repository locally on their machine, and work from there.
 
@@ -717,10 +716,11 @@ At line 32 of autograder.py (or perhaps elsewhere in different projects), you mi
 ![Pacman import warning](img/pacman-import-warning.png)
 
 ## The autograder says `FAIL: Exception raised ...` but I am not sure which test case failed
+
 Due to the structure of the autograder, it cannot tell which test threw the exception. Tests are run in alphabetical order, so you can check yourself. The test failing will be the one immediately after the last one that passed. E.g. `0-small-tree` in the screenshot below.
 
 ![Exception raised by test 0-small-tree](img/exception_test.png)
------------------
+
 # Project 0
 
 ## Do we have to handle edge cases? For example, for the `shopSmart` function, what should we do if a fruit is _not_ present in one of the shops?
@@ -744,7 +744,7 @@ One could import the function from Q2 and use that instead, but the function sig
 The weight; this project was made in the US so uses US terminology, not UK.
 
 -----------------
-# Project 1
+# Project 1: Search (Assessment)
 
 ## Do we need to do all the "`*** YOUR CODE HERE ***`" method?
 
