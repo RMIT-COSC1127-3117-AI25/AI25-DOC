@@ -493,13 +493,13 @@ Each request will be considered on an individual basis. If the request is approv
 
 ## I am very busy with other commitments (work, other subjects, travel, etc.) and may not be able to make the deadline, can I get an extension?
 
-Only unexpected circumstances outside your control (e.g., illness) extensions or equivalent assessments will be granted; see question above.
+Only _unexpected_ circumstances outside your control (e.g., illness or emergency) extensions or equivalent assessments will be granted; see question above.
 
-For other situations, we expect students enrolled in the course to _have arranged all their other commitments_ (e.g., work, other courses, family, trips, etc.) beforehand to make sure they can carry out the course _under the planned schedule_. Ultimately, meeting deadline does matter and is part of demonstrating meeting the course [AQF Level 7-9](https://www.aqf.edu.au/framework/aqf-levels#toc-aqf-level-7-criteria-3) expectations:
+For other situations, we expect students enrolled in the course to _have arranged and accounted for all their other commitments_ (e.g., work, other courses, family, trips, applications, etc.) beforehand to make sure they can carry out the course _under the planned schedule_. Ultimately, meeting deadline does matter and is part of demonstrating meeting the course [AQF Level 7-9](https://www.aqf.edu.au/framework/aqf-levels#toc-aqf-level-7-criteria-3) expectations:
 
 ![aqf7](img/aqf7-autonomy.png)
 
-Observe that we have 300+ students and therefore lots of students could claim time constraints for multiple reasons. Besides the unmanageable workload that this would imply (reviewing and tracking each case, marking them at different times, different releases, etc.), I am _not able/allowed to arbitrarily judge_ which cases are OK and which ones are not: I would undoubtedly be making mistakes and hence treating students differently, _which can put me in a very risky situation due to fairness issues_.
+Observe that we have 300+ students and therefore lots of students could claim time constraints for multiple reasons. Besides the unmanageable workload that this would imply (reviewing and tracking each case, marking them at different times, different releases, etc.), I am _not able/allowed to arbitrarily judge_ which cases are OK and which ones are not: I would undoubtedly be making mistakes and hence treating students differently, _which can put me in a very risky situation due to fairness issues_. If a student is enrolled in the course, it is expected it was planned correctly within other commitments and that otherwise the burden will not be shifted to the teaching staff or be unfair across the class.
 
 Also, we note that the difficulty of each assessment has been planned to be achievable within the time-frame, so claims about the difficulty of the task will not be entertained for extensions. Pushing one deadline for many students will not only complicate the execution of the course, but will put students in a more difficult situation for upcoming (more demanding) assessments.
 
