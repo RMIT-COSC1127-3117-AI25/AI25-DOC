@@ -78,6 +78,12 @@ As any FAQ page, this page is always "under construction". As we realize that so
   - [In the feedback autograder, what does `expanded_states` means?](#in-the-feedback-autograder-what-does-expanded_states-means)
   - [For Q9 cycle checking, should we check only a few levels, or all the way up to the root node?](#for-q9-cycle-checking-should-we-check-only-a-few-levels-or-all-the-way-up-to-the-root-node)
   - [In Q6 or Q7 I am getting `FAIL: inconsistent heuristic path` for a test case, what does this mean?](#in-q6-or-q7-i-am-getting-fail-inconsistent-heuristic-path-for-a-test-case-what-does-this-mean)
+- [Project 2: Agents in City Reasoner in Prolog](#project-2-agents-in-city-reasoner-in-prolog)
+  - [Do we need to handle cyclic dependencies?](#do-we-need-to-handle-cyclic-dependencies)
+  - [What do the question marks mean in the predicate: `shop_for_item(?Item, ?Shop)`?](#what-do-the-question-marks-mean-in-the-predicate-shop_for_itemitem-shop)
+  - [Can I use predicate `X`?](#can-i-use-predicate-x)
+  - [Why there are restrictions on the language used?](#why-there-are-restrictions-on-the-language-used)
+  - [Why do we place restrictions on the Prolog constructs you can use in this assessment?](#why-do-we-place-restrictions-on-the-prolog-constructs-you-can-use-in-this-assessment)
 
 
 -------------------------
@@ -906,3 +912,52 @@ You have an inconsistent heuristic; i.e. it either:
 - it overestimates the difference between two nodes. (i.e. X and Y are neighbours, heuristic cost of X is 10, Y is 13, and the cost from X to Y is 2).
 
 You will need to try to figure out why your heuristic is inconsistent, and fix it, or use an entirely different heuristic.
+
+-----------------
+# Project 2: Agents in City Reasoner in Prolog
+
+If your question is about Prolog itself and not specific to the assessment type of the course edition, maybe it has been answered in the [FAQ-PROLOG.md](FAQ-PROLOG.md) 👈 document.
+
+## Do we need to handle cyclic dependencies?
+> e.g. where an item has itself as an ingredient, or a tool required to make an item, has that item as an ingredient.
+
+No, for this assignment, it is safe to assume that every recipe is possible to make even starting with nothing. That means, no cycles in ingredients (because then it would be impossible to craft the item), and also no cycles in tools (as it would make it impossible to craft the tools).
+
+## What do the question marks mean in the predicate: `shop_for_item(?Item, ?Shop)`?
+
+These are the [argument mode indicators](https://www.swi-prolog.org/pldoc/man?section=argmode), `?` means it can be provided or not.
+
+## Can I use predicate `X`?
+
+We have listed in the spec several predicates and family of predicates that you may and may not use.
+
+Other predicates that were asked in the forum that **you are allowed** to use are:
+
+- Any predicate in [`library(list)`](https://www.swi-prolog.org/pldoc/man?section=lists), such as `flatten/1`.
+- `maplist` predicates from [`library(apply)`](https://www.swi-prolog.org/search?for=maplist). You may not use other predicates in that library, just `maplist`. 😉
+- `once/1` predicate and cut `!`, though they are not needed and they are risky and can introduce bugs that are difficult to debug.
+
+Examples of predicates that you are not allowed to use:
+
+- Any predicate in any other library not listed above. For example, you may not use predicates in library [`pairs`](https://www.swi-prolog.org/pldoc/man?section=pairs) or [`record`](https://www.swi-prolog.org/pldoc/man?section=record), to name just two.
+- Any "[find all solution](https://www.swi-prolog.org/pldoc/man?section=allsolutions)" predicate.
+- `call/1`.
+
+> [!NOTE]
+> This list is being updated as new enquires come up in the forum, but basically anything that seems not basic is not allowed.
+
+## Why there are restrictions on the language used?
+
+Here’s a polished version of your text, keeping it professional yet accessible and learning-focused:
+
+## Why do we place restrictions on the Prolog constructs you can use in this assessment?
+
+The restrictions exist for two main reasons:
+
+1. **Focus on learning, not just solving.**
+   The purpose of this exercise is not to obtain solutions to the problems — we already have those. Instead, the goal is for you to experience how problems can be solved using **Declarative Programming**. If we allowed the use of very powerful predicates, or ones that sidestep the declarative paradigm, that learning opportunity would be lost. It’s the same reason why you implemented A\* from scratch even though many libraries already exist: the focus is on developing your understanding, not just producing an answer.
+
+2. **Reducing the risk of errors.**
+   Some advanced predicates require a high level of proficiency and extensive experience to use correctly. Relying on them too early can actually make it more likely that your solutions will be wrong.
+
+In short, our intention is to give you a meaningful **exposure to the core ideas of Logic Programming**. If you find this interesting and want to explore further, there are plenty of opportunities to go beyond. 🙂
