@@ -96,3 +96,25 @@ false.
 ```
 
 For more details check documentation page [AllOutput](https://www.swi-prolog.org/FAQ/AllOutput.html).
+
+## Why Prolog sometimes outputs `false` but sometimes it doesn't? Will I be marked down if my solution does not output `false`?
+
+No, you will not be penalised because it is not a mistake, it is actually a sign of more efficient and cleaner code!
+
+Consider this:
+
+```prolog
+?- true ; true.
+true ;
+true.
+
+?- true ; \+ true.
+true ;
+false.
+
+?- true ; \+ true ; \+ true ; \+ true.
+true ;
+false
+```
+
+The difference is that in the 2nd and 3rd cases, Prolog tries the second choice point left (after succeeding once), and that second "goal" happens to fail, so it returns `false`. In the first one, all the execution branches succeed, there is no choice point left that happens to fail. 😉
