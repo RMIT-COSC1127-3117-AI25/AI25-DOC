@@ -84,6 +84,7 @@ As any FAQ page, this page is always "under construction". As we realize that so
   - [Can I use predicate `X`?](#can-i-use-predicate-x)
   - [Why there are restrictions on the language used?](#why-there-are-restrictions-on-the-language-used)
   - [Why do we place restrictions on the Prolog constructs you can use in this assessment?](#why-do-we-place-restrictions-on-the-prolog-constructs-you-can-use-in-this-assessment)
+  - [In percepts, can an item be listed more than once in `shop/5` and `job/6` terms?](#in-percepts-can-an-item-be-listed-more-than-once-in-shop5-and-job6-terms)
 
 
 -------------------------
@@ -961,3 +962,13 @@ The restrictions exist for two main reasons:
    Some advanced predicates require a high level of proficiency and extensive experience to use correctly. Relying on them too early can actually make it more likely that your solutions will be wrong.
 
 In short, our intention is to give you a meaningful **exposure to the core ideas of Logic Programming**. If you find this interesting and want to explore further, there are plenty of opportunities to go beyond. 🙂
+
+## In percepts, can an item be listed more than once in `shop/5` and `job/6` terms?
+
+For example, can we have:
+
+```prolog
+shop(shop1, 12, 14, 2, [item(item0, 100, 17), item(item0, 100, 17), .....]
+````
+
+The answer is **no**! If an item is in the list, it will appear _once_. That is, you can assume the percept is "clean" and contains no "redundancies". ✅
