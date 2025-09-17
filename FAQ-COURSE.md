@@ -470,18 +470,27 @@ Please note that late submissions are only allowed to assignments and projects, 
 
 The dates of all assessments in this course are given well in advance. Note also that when an assessment has, say, a 2 week window, it **does not mean that it requires 2 weeks of full time work**: it is a flexible window so you can plan your commitment to it within that timeframe and cater for issues that may come up. So, plan early your work around your commitments and workload, start on the assessments _early_, and submit them substantially before the deadline, preferably at least two or three days before (not the day due or the day before!). Working and submitting close to the deadline could be risky and you may fail to submit on time, for example due to loss of Internet, laptop problems, server delays, heavy workload, late enrolment, external commitments, etc.
 
-However, if you know you will be unable to complete an assignment due to illness or personal circumstances outside of your control, please contact your lecturer immediately for special consideration and submit the [Application for Extension of Time for Submission of Assessable Work Form](https://www.rmit.edu.au/content/dam/rmit/au/en/students/documents/my-course/assessment-results/application-extension.pdf):
+However, if you know you will be unable to complete an assignment due to illness or personal circumstances outside of your control, and you need a **short extension**, please contact your lecturer immediately for a possible special consideration. In general, I'm happy to grant _short_ extensions for projects if requests are reasonable and grounded, but I am always careful to ensure that any extension does not impede too much on other assessment (in this and other courses). So, in your request, you should address the following points:
 
-- **Evidence will be required** (e.g., medical certificate).
+1. **How much longer** would you think that you require? 🕥
+2. What is your study load? (number of courses this semester) :load
+3. What other assessments you have due for all of your other subjects in the week after this is due?
+4. How will you catch up on any other assessments if you get an extension on this one?
+5. What **documentation/evidence** do you have to support your request; e.g. medical certificate? 🗒️
+6. How much work have you done so far on the project? Evidence of sustainable work on the assessment will _strengthen your case_: Have you started it early and made some progress before the unexpected situation came up?
+
+Overall, you need to think whether this will continue to affect you throughout the semester. 🤔 If yes, then I suggest that you ask yourself whether an extension is really what you need, as I’m sure you have assessments in other subjects due in the coming weeks that you need to work on. In the end, the issue is that you can continue pushing back deadlines, but eventually the semester ends and you will need to revise for final assessment. In short: perhaps just consider submitting most of a good assignment and moving on to the next thing.
+
+> [!NOTE]
+> The instructor can only handle simple "obvious" requests that are less than 7 days and that they can be assessed quickly as per evidence (e.g., a medical certificate indicating length of impact). Longer or more complex requests that require carefully assessing the evidence and situation, cannot be handled by the instructor and may need to go through RMIT formal process for [Special Consideration (SPC)][RMIT-SPC].
+
+When requesting an extension, always consider:
+
 - As per policy, you must submit your request **at least one _working_ day before the original due date**. Do not expect or request that I (or other teaching staff) will be working on weekends or after hours. Requests received close to the assessment date (or after the date!) will generally not be accepted except in the most extreme circumstances. We encourage students to plan days and weeks ahead, and to discourage last minute pleas for help.
 - **Do not just stop working and "wait" when you submit your request.** First, you do not know if it will be granted. Second, we expect you will still be working on the project and the extension will be based on that. Keep working and even submit as early as you can before receiving the notification and decision.
-- Evidence of sustainable work on the assessment will strengthen your case. _Have you started it early and made some progress before the unexpected situation arose?_
-- You may be required to explain how the extension will affect your future study deadlines, for this and other courses. We are always careful to ensure that any extension does not impede too much on other assessment, and does not have a domino effect.
 
-Each request will be considered on an individual basis. If the request is approved, the deadline for the assignment will be extended. If the request is denied and the assessment missed, you will unfortunately receive a zero for that assessment. Remember though that it is always possible to submit late.
+Each request will be considered on an individual basis. If the request is approved, the deadline for the assignment will be extended. If the request is denied and the assessment missed, you will unfortunately get the corresponding late penalty. Remember though that it is always possible to submit late.
 
-> [!IMPORTANT]
-> The instructor can only handle simple "obvious" requests that are less than 7 days and that they can be assessed quickly as per evidence (e.g., a medical certificate indicating length of impact). Longer or more complex requests that require carefully assessing the evidence and situation, cannot be handled by the instructor and may need to go through RMIT formal process for [Special Consideration (SPC)][RMIT-SPC].
 
 > [!IMPORTANT] 
 > Because of the nature of many project assessments and the quick release of results, any non short term SPC will probably be in the form of an **Equivalent Assessment**, that is, another _ assessment later on that will assess the same content but possibly in a different way. In most cases this will involve a pre-arranged in-person 1-2hrs closed-book assessment with the instructor (e.g., a set of exercises to complete).
