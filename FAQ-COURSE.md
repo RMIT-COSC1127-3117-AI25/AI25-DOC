@@ -470,7 +470,14 @@ Please note that late submissions are only allowed to assignments and projects, 
 
 The dates of all assessments in this course are given well in advance. Note also that when an assessment has, say, a 2 week window, it **does not mean that it requires 2 weeks of full time work**: it is a flexible window so you can plan your commitment to it within that timeframe and cater for issues that may come up. So, plan early your work around your commitments and workload, start on the assessments _early_, and submit them substantially before the deadline, preferably at least two or three days before (not the day due or the day before!). Working and submitting close to the deadline could be risky and you may fail to submit on time, for example due to loss of Internet, laptop problems, server delays, heavy workload, late enrolment, external commitments, etc.
 
-However, if you know you will be unable to complete an assignment due to illness or personal circumstances outside of your control, and you need a **short extension**, please contact your lecturer immediately for a possible special consideration. In general, I'm happy to grant _short_ extensions for projects if requests are reasonable and grounded, but I am always careful to ensure that any extension does not impede too much on other assessment (in this and other courses). So, in your request, you should address the following points:
+However, if you know you will be unable to complete an assignment due to illness or personal circumstances outside of your control, you have two options:
+
+1. If it is a short extension (no more than 7 days), you can request the **extension to the instructor directly**. This needs to be done at least one working day before the deadline. Read below on how to do this.
+2. Formally apply for [Special Consideration (SPC)][RMIT-SPC].
+
+If you think you are eligible for a **short extension**, please contact your lecturer immediately. This must be done **one working day before**. If the deadline is on Sunday, the request has to come no later than Thursday 11:59pm (no request sent on Friday, Saturday, or Sunday will be accepted).
+
+In general, I'm happy to grant _short_ extensions for projects if requests are reasonable and grounded, but I am always careful to ensure that any extension does not impede too much on other assessment (in this and other courses). So, in your request, you should address the following points:
 
 1. **How much longer** would you think that you require? 🕥
 2. What is your study load? (number of courses this semester) :load
@@ -482,22 +489,15 @@ However, if you know you will be unable to complete an assignment due to illness
 Overall, you need to think whether this will continue to affect you throughout the semester. 🤔 If yes, then I suggest that you ask yourself whether an extension is really what you need, as I’m sure you have assessments in other subjects due in the coming weeks that you need to work on. In the end, the issue is that you can continue pushing back deadlines, but eventually the semester ends and you will need to revise for final assessment. In short: perhaps just consider submitting most of a good assignment and moving on to the next thing.
 
 > [!NOTE]
-> The instructor can only handle simple "obvious" requests that are less than 7 days and that they can be assessed quickly as per evidence (e.g., a medical certificate indicating length of impact). Longer or more complex requests that require carefully assessing the evidence and situation, cannot be handled by the instructor and may need to go through RMIT formal process for [Special Consideration (SPC)][RMIT-SPC].
+> The instructor can only handle simple "obvious" requests that are less than 7 days, are sent at least 1 working day before, and that they can be assessed quickly as per evidence (e.g., a medical certificate indicating length of impact). Longer or more complex requests that require carefully assessing the evidence and situation, cannot be handled by the instructor and may need to go through RMIT formal process for [Special Consideration (SPC)][RMIT-SPC].
 
-When requesting an extension, always consider:
-
-- As per policy, you must submit your request **at least one _working_ day before the original due date**. Do not expect or request that I (or other teaching staff) will be working on weekends or after hours. Requests received close to the assessment date (or after the date!) will generally not be accepted except in the most extreme circumstances. We encourage students to plan days and weeks ahead, and to discourage last minute pleas for help.
-- **Do not just stop working and "wait" when you submit your request.** First, you do not know if it will be granted. Second, we expect you will still be working on the project and the extension will be based on that. Keep working and even submit as early as you can before receiving the notification and decision.
+> [!WARNING]
+> If your application relates to a request for an extension of time for submittable work (such as assignments, projects, essays, etc.) to either the instructor or SPC team, it is expected that you will **continue to progress that work and submit it as soon as possible** while your application is under consideration. Do not just wait idle until the notification arrives. First, you do not know if it will be granted. Second, your are expected to continue working and submit the assessment as soon as you could, while your application is being assessed.
 
 Each request will be considered on an individual basis. If the request is approved, the deadline for the assignment will be extended. If the request is denied and the assessment missed, you will unfortunately get the corresponding late penalty. Remember though that it is always possible to submit late.
 
-
 > [!IMPORTANT] 
 > Because of the nature of many project assessments and the quick release of results, any non short term SPC will probably be in the form of an **Equivalent Assessment**, that is, another _ assessment later on that will assess the same content but possibly in a different way. In most cases this will involve a pre-arranged in-person 1-2hrs closed-book assessment with the instructor (e.g., a set of exercises to complete).
-
-
-> [!IMPORTANT]
-> If your application relates to a request for an extension of time for submittable work (such as assignments, projects, essays, etc.) to either the instructor or SPC team, it is expected that you will continue to progress that work and submit it as soon as possible while your application is under consideration. Do not just wait idle until the notification arrives. Your are expected to continue working and submit the assessment as soon as you could, while your application is being assessed.
 
 ## I am very busy with other commitments (work, other subjects, travel, etc.) and may not be able to make the deadline, can I get an extension?
 
