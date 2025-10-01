@@ -19,6 +19,7 @@ The automarker will produce a YAML file describing the outcome of each single te
   - [Overall score/marks](#overall-scoremarks)
   - [Report](#report)
     - [Forbidden predicates](#forbidden-predicates)
+    - [Predicate dependencies and best modes](#predicate-dependencies-and-best-modes)
 
 ## Consult error-free
 
@@ -204,3 +205,23 @@ When a test is found to use a forbidden predicate, as per the "Language restrict
 In this case, the test used the `findall/3` predicate which was not allowed.
 
 It is the MINIMUM expectation to adhere to these rules. No partial marks will be awarded when these rules are broken or ignored.
+
+
+### Predicate dependencies and best modes
+
+In general, we would test the code of each question using correct implementation of dependencies. This is more notorious and relevant in Exercise 4, in which you would heavily rely on previous exercises.
+
+So, when we tested your Exercise 4 `shops_for_job/2` implementation, we would use correct solutions for all previous predicates.
+
+It turned out, however, that same student submissions for Exercise 4 performed better with their own, non-correct, implementation of previous questions! 😄
+
+So, we would run each test set in two "modes":
+
+1. `ours`: using our perfect implementation of previous predicates;
+2. `theirs`: using your previous predicates, even if buggy and not fully correct.
+
+We would then take the one that achieves more points; the best run. You will see that in the report as follows:
+
+```yaml
+   best_mode: You scored the most points under mode 'ours', so all results for this question are using 'ours' mode.
+```
