@@ -85,7 +85,11 @@ As any FAQ page, this page is always "under construction". As we realize that so
   - [Why there are restrictions on the language used?](#why-there-are-restrictions-on-the-language-used)
   - [Why do we place restrictions on the Prolog constructs you can use in this assessment?](#why-do-we-place-restrictions-on-the-prolog-constructs-you-can-use-in-this-assessment)
   - [In percepts, can an item be listed more than once in `shop/5` and `job/6` terms?](#in-percepts-can-an-item-be-listed-more-than-once-in-shop5-and-job6-terms)
-
+  - [Project 3: Reinforcement Learning in Pacman](#project-3-reinforcement-learning-in-pacman)
+  - [What are 'Noise' and 'LivingReward' in Q3?](#what-are-noise-and-livingreward-in-q3)
+  - [How should we come up with values for Q3? Do we just guess? Do we have to explain it?](#how-should-we-come-up-with-values-for-q3-do-we-just-guess-do-we-have-to-explain-it)
+  - [What do I need to do for Q7? The autograder passes without any new code.](#what-do-i-need-to-do-for-q7-the-autograder-passes-without-any-new-code)
+  - [The textbook algorithm for Value Iteration takes $\\epsilon$ as a parameter, where is this in the project code?](#the-textbook-algorithm-for-value-iteration-takes-epsilon-as-a-parameter-where-is-this-in-the-project-code)
 
 -------------------------
 
@@ -152,6 +156,7 @@ Hope this puts some context and rationale to the issue, and serves as a good lea
 That will not only show very poor SE practices (because dummy commits are not meaningful commits), but most importantly it may be deemed as a case of "_dishonest behavior to get an unfair advantage_", which is against the course Honours Code and can be a serious offense. One thing is to have poor SE practices, another thing is to attempt to cheat, so that should be out of the question! :-)
 
 ------------------------------
+
 # GIT & GITHUB
 
 ## Git, GitHub, what is that?
@@ -174,7 +179,6 @@ GitHub Desktop, or any other programming tool like a text editor/IDE, package ma
 Now, if you are using GitHub Desktop just because you do not know how to use git command line, then that is ineed not good enough (both in terms of skills and attitude) for a student taking this course, and a CS/IT student overall anwyays. You are expected to be able to know git more than its high-level tools, and to learn whatever gaps you have. 😉
 
 Critically, you will not get help from staff about how to use GitHub Desktop, since we (or at least most of us) don't use it. 🤦
-
 
 ## How do I submit my project solution in my GIT repository via tagging?
 
@@ -208,7 +212,6 @@ Check the remote has the tag where you wanted and that it also contains all the 
 > Before pushing your tag to the remote repo, make sure all the commits you did have already been pushed to the remote too. Check that in the GitHub remote. It is wrong to push just the tag without pushing the actual commits, as it will yield a tag not belonging to any branch history:
 >
 > ![](img/tag-no-commits.png)
-
 
 Note that _a tag name can only be used once_, so if you already have a tag `submission` and want to use that tag name on another commit (e.g., you have a better, more recent, commit for your solution), you first need to delete the existing tag; see the next question for that. :-)
 
@@ -254,6 +257,7 @@ No, a _tag_ is a _git concept_, whereas a `Release` is something about GitHub, b
 A tag is a _pointer_ to a specific commit, that's all, you basically give a name to a specific commit. This is what we use to mark the commit that is meant to be submitted for marking.
 
 ## My project solution is contained in multiple commits, which do I tag?
+
 The last one.
 I think the confusion here is because there are two potentially different things you can mean with the same word commit.
 You are thinking of commit as a set of changes to files - so the commit itself is only made up of the edits you have made since the last commit.
@@ -333,6 +337,7 @@ The GitHub username you selected is in the name of all of the projects you clone
 This is often due to a space in a file path on your machine (generally for Windows users), but might have other causes. This button relies on a VSCode extension that is deprecated, so may not be reliable. We strongly encourage all students to clone the repository locally on their machine, and work from there.
 
 ------------------------------
+
 # PYTHON
 
 ## What version of Python should I use?
@@ -393,7 +398,6 @@ Python 3.8.18 (default, Oct 24 2023, 08:42:25)
 Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
-
 
 ### How do I install a package/module in `coreteaching` using `pip`?
 
@@ -478,6 +482,7 @@ total:  6994.68 ms (lower is better)
 As you can see my laptop is ~2x faster than the cluster machine! So, _how fast is your laptop_?
 
 ------------------------------
+
 # GENERAL PACMAN
 
 ## What is the best way to develop my solutions for the Pacman project?
@@ -567,7 +572,6 @@ If you are running `conda`:
 ```bash
 $ conda install tk
 ```
-
 
 ## I get a blank screen when running Pacman on my Mac, why?
 
@@ -718,6 +722,7 @@ Most solutions won't require catching any exception, but if you happen to do/nee
 Yes, you should remove it - to figure out what it does I encourage you to look up its definition in `util.py` ;-)
 
 ## My editor shows an error trying to import pacman module
+
 At line 32 of autograder.py (or perhaps elsewhere in different projects), you might see an underline with a warning message saying 'Import "pacman" could not be resolved'. This is not a problem, as the code is wrapped in a try/except block, so you can ignore this warning from your editor.
 
 ![Pacman import warning](img/pacman-import-warning.png)
@@ -748,9 +753,11 @@ Note that, for all future projects you should consider edge cases carefully and 
 One could import the function from Q2 and use that instead, but the function signatures then won't match, so one needs to create a wrapper in Q2 anyway, and it all gets a bit messy. Fundamentally if you use `getPriceOfOrder`, it will give wrong results for any shops which don't stock all your fruit, but that does seem to be the intended solution.
 
 ## Does the reference to 'pounds' in buyLotsOfFruit.py refer to weight (lb) or cost (£)?
+
 The weight; this project was made in the US so uses US terminology, not UK.
 
 -----------------
+
 # Project 1: Search (Assessment)
 
 ## Do we need to do all the "`*** YOUR CODE HERE ***`" method?
@@ -835,7 +842,6 @@ Record:        Win
 
 So it takes 1.9 seconds (in the cluster machines) when running the agent with an "empty" heuristic. What happens when we plugged our heuristic?
 
-
 ```shell
 $ python pacman.py -l trickySearch -p AStarFoodSearchAgent -q
 
@@ -915,11 +921,13 @@ You have an inconsistent heuristic; i.e. it either:
 You will need to try to figure out why your heuristic is inconsistent, and fix it, or use an entirely different heuristic.
 
 -----------------
+
 # Project 2: Agents in City Reasoner in Prolog
 
 If your question is about Prolog itself and not specific to the assessment type of the course edition, maybe it has been answered in the [FAQ-PROLOG.md](FAQ-PROLOG.md) 👈 document.
 
 ## Do we need to handle cyclic dependencies?
+>
 > e.g. where an item has itself as an ingredient, or a tool required to make an item, has that item as an ingredient.
 
 No, for this assignment, it is safe to assume that every recipe is possible to make even starting with nothing. That means, no cycles in ingredients (because then it would be impossible to craft the item), and also no cycles in tools (as it would make it impossible to craft the tools).
@@ -969,6 +977,31 @@ For example, can we have:
 
 ```prolog
 shop(shop1, 12, 14, 2, [item(item0, 100, 17), item(item0, 100, 17), .....]
-````
+```
 
 The answer is **no**! If an item is in the list, it will appear _once_. That is, you can assume the percept is "clean" and contains no "redundancies". ✅
+
+## Project 3: Reinforcement Learning in Pacman
+
+## What are 'Noise' and 'LivingReward' in Q3?
+
+Living reward is the reward given to the agent at each time step regardless of the state it is in (for 'living' another timestep).
+
+Noise is the probability that the agent accidentally moves left/right instead of in the direction it meant to go.
+
+## How should we come up with values for Q3? Do we just guess? Do we have to explain it?
+
+You should definitely not be blindly guessing, but you may need to try a few informed guesses before you get the right answer. You do not need to explain your values.
+
+Longer answer: There is no way to take the expected policy and somehow solve backwards to recover these parameter values, because the values are not unique. There are many (often infinitely many!) different parameter combinations that will lead to the same policy.
+Instead, you should use your understanding of Q-learning to understand which values will result in each of the indicated outcomes. Whether this can be done purely intuitively, or requires actual policy calculations, will depend on how deep your understanding is.
+
+If it seems like a big ask to do this intuitively the only tip I have is that generally in these situations you want to consider extreme values for parameters because that will have the biggest effects.
+
+## What do I need to do for Q7? The autograder passes without any new code.
+
+If you have done all of the previous questions properly, it is very possible for Q7 to run correctly without any new code. It is essentially just applying your existing code to pacman (which is why it is only worth 1 mark). The intention is just for you to understand how the training process works, and to motivate Q8 with the failures of your Q-learning agent to win on the medium grid.
+
+## The textbook algorithm for Value Iteration takes $\epsilon$ as a parameter, where is this in the project code?
+
+The project uses a slightly different version of the algorithm, so there is no epsilon paramter. There is however, a variable that serves a similar purpose. As a hint, what is the point of epsilon in the original algorithm? How is that objective achieved in the project code?
